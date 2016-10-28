@@ -1,7 +1,6 @@
 label,dim
-Channel,chan2_id
-Segment,chan1_id
+Message,chan2_id
+Channel,chan1_id
 Market,dma1_id
 LOB,sales1_id
 Product,sales2_id
-Message,salchan1_id

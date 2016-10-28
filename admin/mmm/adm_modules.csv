@@ -4,5 +4,5 @@ Time Window,mmm_input_date_range,1
 Tactics,mmm_input_dim_chan,1
 Markets,mmm_input_dim_dma,0
 LOB's,mmm_input_dim_sales,1
-Messages,mmm_input_dim_salchan,1
+Messages,mmm_input_dim_salchan,0
 Plan Setup,mmm_input_plan,1

@@ -13,6 +13,3 @@ tactictable_2,Tactic,chan,1,0,1,table,1,"chan2_id,chan1_id",NULL
 tactictable_1,Tactic,chan,1,0,1,table,1,chan1_id,NULL
 tacticpie_2,Tactic,chan,1,1,0,pie,1,"chan2_id,chan1_id",NULL
 tacticpie_1,Tactic,chan,1,1,0,pie,1,chan1_id,NULL
-msgpie_1,Message,salchan,2,1,0,pie,1,salchan1_id,NULL
-msgchart_1,Message,salchan,2,1,0,area,1,"salchan1_id,week_id",NULL
-msgpie_1,Message,salchan,2,0,1,table,1,salchan1_id,NULL

@@ -3,11 +3,10 @@ update,y
 client_name,Wells Fargo
 r_path,/home/rstudio/nviz/wells/
 time,7/4/2016
-bdgt_dim,"chan2_id,chan1_id,dma1_id,salchan1_id"
+bdgt_dim,"chan2_id,chan1_id,dma1_id"
 dim_chan,"chan2_id,chan1_id"
 dim_dma,dma1_id
 dim_sales,"sales1_id,sales2_id"
-dim_salchan,salchan1_id
 model_dim,"sales1_id,sales2_id"
 formula,ninah
 metric,"m_1,m_2,m_3,m_4,m_5"
