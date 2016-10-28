@@ -1,7 +1,7 @@
 client_path='c:/Users/XinZhou/Documents/GitHub/wells/admin/mmm/'
 main_path='c:/Users/XinZhou/Documents/GitHub/mmm_sim/'
 # DB server info
-is_staging=True
+is_staging=False
 db_server="bitnami.cluster-chdidqfrg8na.us-east-1.rds.amazonaws.com"
 db_server="127.0.0.1"
 db_name="nviz"
