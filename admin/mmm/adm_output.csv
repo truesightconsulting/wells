@@ -1,0 +1,18 @@
+label,group,type,tab,is_chart,is_table,chart,drilldown,dim,filter
+overall,overall,overall,0,0,0,overall,0,all_id,NULL
+excel_result,Drilldown Result,excel,0,0,0,excel,0,"sales1_id,sales2_id,salchan1_id,chan1_id,chan2_id,week_id",NULL
+lobpie_1,LOB,sales,3,1,0,pie,1,sales1_id,NULL
+lobpie_2,LOB,sales,3,1,0,pie,1,"sales1_id,sales2_id",NULL
+lobchart_1,LOB,sales,3,1,0,area,0,"sales1_id,week_id",NULL
+lobchart_2,LOB,sales,3,1,0,area,0,"sales2_id,week_id",NULL
+lobtable_1,LOB,sales,3,0,1,table,1,sales1_id,NULL
+lobtable_2,LOB,sales,3,0,1,table,1,"sales1_id,sales2_id",NULL
+tacticchart_2,Tactic,chan,1,1,0,area,0,"chan2_id,week_id",NULL
+tacticchart_1,Tactic,chan,1,1,0,area,0,"chan1_id,week_id",NULL
+tactictable_2,Tactic,chan,1,0,1,table,1,"chan2_id,chan1_id",NULL
+tactictable_1,Tactic,chan,1,0,1,table,1,chan1_id,NULL
+tacticpie_2,Tactic,chan,1,1,0,pie,1,"chan2_id,chan1_id",NULL
+tacticpie_1,Tactic,chan,1,1,0,pie,1,chan1_id,NULL
+msgpie_1,Message,salchan,2,1,0,pie,1,salchan1_id,NULL
+msgchart_1,Message,salchan,2,1,0,area,1,"salchan1_id,week_id",NULL
+msgpie_1,Message,salchan,2,0,1,table,1,salchan1_id,NULL

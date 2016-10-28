@@ -1,0 +1,151 @@
+sales1_name,sales2_name,chan2_name,chan1_name,salchan1_name,dma1_name,var,beta,hl,hrf,max,cpp,apprate,ratio,m_1,m_2,m_3,m_4,m_5
+Business,Business Checking - New Checking Customers,Magazine,General Market,Small Business,National,tmg_smbz_spd,480.07708,1,0.45,533106.9741,1,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Magazine,General Market,Traffic Driving,National,tmg_trfc_spd,884.0916144,1,0.3,337552.2133,1,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Newspaper,General Market,Small Business,National,tnp_smbz_spd,386.5908025,0.3,0.3,940787.0916,1,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Newspaper,General Market,Traffic Driving,National,tnp_trfc_spd,142.5239736,0.3,0.15,770207.3998,1,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Online Banner,General Market,Brand,National,odp_nv_brd_imp,533.2456023,0.6,0.15,237308965,0.004969707,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Online Banner,General Market,Small Business,National,odp_nv_smb_imp,470.2254701,0.6,0.45,180025179,0.005644797,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Online Social,General Market,Brand,National,odp_sc_brd_spd,332.1532817,0.6,0.15,619644.4444,1,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Online Social,General Market,Small Business,National,odp_sc_smb_spd,295.4267274,0.6,0.45,172795.41,1,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Online Video,General Market,Deposits,National,odp_vd_dep_imp,476.3521804,1,0.15,101199898,0.012153508,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Online Video,General Market,Small Business,National,odp_vd_smb_imp,212.8449865,1,0.45,14830172,0.026635957,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Outdoor,General Market,Small Business,National,toh_smbz_spd,370.6040286,1,0.15,415969.8772,1,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Paid Search,General Market,Small Business,National,ops_smb_tl_tl_clk,421.6121814,0.01,0.45,14591,8.714527877,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Radio,General Market,Small Business,National,trd_smbz_spd,488.8326215,0.6,0.3,540156.9207,1,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Television,Diverse Segment,Brand,National,ttv_ds_brnd_spd,309.7170012,1,0.3,1164438.693,1,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Television,General Market,Brand,National,ttv_brnd_trp,2535.283357,3,0.15,383.4,33818.11378,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Television,General Market,Deposits,National,ttv_dpst_trp,3480.660409,4,0.15,675.36,27396.33723,1,1,1,344,867,1162,1683
+Business,Business Checking - New Checking Customers,Television,General Market,Small Business,National,ttv_smbz_trp,8012.221683,2,0.15,253.82,28701.67614,1,1,1,344,867,1162,1683
+Business,Business Direct - Direct Channel,Newspaper,General Market,Traffic Driving,National,tnp_trfc_spd,415.5339839,0.6,0.45,770207.3998,1,0.3,1,1,265,661,902,1516
+Business,Business Direct - Direct Channel,Online Display,General Market,Traffic Driving,National,odp_tl_tdr_imp,515.9889879,0.6,0.45,380301384,0.002878022,0.3,1,1,265,661,902,1516
+Business,Business Direct - Direct Channel,Radio,General Market,Brand,National,trd_brnd_spd,205.1044917,0.6,0.3,932153.265,1,0.3,1,1,265,661,902,1516
+Business,Business Direct - Store Channel,Magazine,General Market,Small Business,National,tmg_smbz_spd,296.7652606,1,0.15,533106.9741,1,0.25,1,1,153,379,517,868
+Business,Business Direct - Store Channel,Newspaper,General Market,Brand,National,tnp_brnd_spd,334.6060654,0.6,0.15,972597.78,1,0.25,1,1,153,379,517,868
+Business,Business Direct - Store Channel,Newspaper,General Market,Traffic Driving,National,tnp_trfc_spd,115.5261773,0.6,0.15,770207.3998,1,0.25,1,1,153,379,517,868
+Business,Business Direct - Store Channel,Online Display,General Market,Small Business,National,odp_tl_smb_imp,616.812578,0.6,0.15,307909594,0.006104041,0.25,1,1,153,379,517,868
+Business,Business Direct - Store Channel,Online Display,General Market,Traffic Driving,National,odp_tl_tdr_imp,273.1044542,0.6,0.15,380301384,0.002878022,0.25,1,1,153,379,517,868
+Business,Business Direct - Store Channel,Outdoor,General Market,Small Business,National,toh_smbz_spd,104.7200352,1,0.15,415969.8772,1,0.25,1,1,153,379,517,868
+Business,Business Direct - Store Channel,Radio,General Market,Brand,National,trd_brnd_spd,169.6731034,0.6,0.15,932153.265,1,0.25,1,1,153,379,517,868
+Business,Business Direct - Store Channel,Radio,General Market,Traffic Driving,National,trd_trfc_spd,701.9364397,0.6,0.15,2147885.081,1,0.25,1,1,153,379,517,868
+Business,Business Direct - Store Channel,Television,General Market,Small Business,National,ttv_smbz_trp,2406.215198,3,0.15,253.82,28701.67614,0.25,1,1,153,379,517,868
+Consumer Deposits,Consumer Checking - New Checking Customers,Newspaper,Diverse Segment,Brand,National,tnp_ds_brnd_ecr,910.4658299,0.01,0.15,3530113,0.081350033,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Newspaper,General Market,Brand,National,tnp_brnd_spd,1019.94942,0.3,0.15,972597.78,1,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Online Banner,General Market,Deposits,National,odp_nv_dep_imp,4781.411131,0.3,0.15,374836881,0.004301019,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Online Display,Diverse Segment,Traffic Driving,National,tdp_ds_trfc_imp,959.8518727,0.6,0.15,38028684,0.00626765,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Online Display,General Market,Traffic Driving,National,odp_tl_tdr_imp,4550.849405,0.3,0.15,380301384,0.002878022,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Online Social,General Market,Deposits,National,odp_sc_dep_spd,1226.35745,0.3,0.3,254778.7023,1,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Online Video,General Market,Brand,National,odp_vd_brd_imp,8047.190832,2,0.3,372404352,0.01243976,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Online Video,General Market,Deposits,National,odp_vd_dep_imp,3759.234449,2,0.15,101199898,0.012153508,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Outdoor,General Market,Deposits,National,toh_dpst_spd,1825.127912,1,0.3,1072149.405,1,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Paid Search,General Market,Brand,National,ops_ebr_tl_tl_spd,444.6271309,0.01,0.15,131978.22,1,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Paid Search,General Market,Deposits (Generic Banking),National,ops_dcr_gb_tl_spd,778.2655144,0.01,0.15,176935.83,1,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Paid Search,General Market,Deposits (Generic Checking),National,ops_dcr_gc_tl_spd,1096.770767,0.01,0.15,293974.43,1,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Radio,Diverse Segment,Brand,National,trd_ds_brnd_spd,937.2290188,0.3,0.45,407726.572,1,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Radio,Diverse Segment,Traffic Driving,National,trd_ds_trfc_spd,2573.249355,0.6,0.3,285001.92,1,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Radio,General Market,Brand,National,trd_brnd_spd,660.2728753,0.6,0.45,932153.265,1,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Radio,General Market,Traffic Driving,National,trd_trfc_spd,7005.650227,0.6,0.15,2147885.081,1,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Television,Diverse Segment,Brand,National,ttv_ds_brnd_spd,2570.487076,2,0.45,1164438.693,1,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Television,General Market,Brand,National,ttv_brnd_spd,8812.53671,5,0.3,5463631.7,1,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Television,General Market,Deposits,National,ttv_dpst_trp,41312.08203,5,0.15,675.36,27396.33723,1,1,1,112,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Television,General Market,Mortgage,National,ttv_mrtg_trp,59309.22522,2,0.3,367.8,28375.57342,1,1,1,112,312,423,582
+Credit Card,Credit Card - Core,Newspaper,Diverse Segment,Traffic Driving,National,tnp_ds_trfc_ecr,643.1954085,0.6,0.3,1652938.5,0.061419102,0.222,1,1,-41,198,474,973
+Credit Card,Credit Card - Core,Online Display,General Market,Traffic Driving,National,odp_tl_tdr_imp,6492.241439,1,0.15,380301384,0.002878022,0.222,1,1,-41,198,474,973
+Credit Card,Credit Card - Core,Online Video,General Market,Deposits,National,odp_vd_dep_imp,3587.89687,1,0.3,101199898,0.012153508,0.222,1,1,-41,198,474,973
+Credit Card,Credit Card - Core,Outdoor,General Market,Traffic Driving,National,toh_trfc_spd,2370.095392,3,0.3,282302.3664,1,0.222,1,1,-41,198,474,973
+Credit Card,Credit Card - Core,Radio,Diverse Segment,Traffic Driving,National,trd_ds_trfc_spd,1489.265527,3,0.15,285001.92,1,0.222,1,1,-41,198,474,973
+Credit Card,Credit Card - Core,Radio,General Market,Traffic Driving,National,trd_trfc_spd,6280.62343,1,0.15,2147885.081,1,0.222,1,1,-41,198,474,973
+Credit Card,Credit Card - Core,Television,General Market,Brand,National,ttv_brnd_trp,7439.24907,3,0.15,383.4,33818.11378,0.222,1,1,-41,198,474,973
+Credit Card,Credit Card - Core,Television,General Market,Deposits,National,ttv_dpst_trp,37355.03379,3,0.15,675.36,27396.33723,0.222,1,1,-41,198,474,973
+Credit Card,Credit Card - Secured,Online Banner,General Market,Deposits,National,odp_nv_dep_imp,644.2998122,0.3,0.3,374836881,0.004301019,0.668,1,1,43,131,198,320
+Credit Card,Credit Card - Secured,Online Display,General Market,Traffic Driving,National,odp_tl_tdr_imp,334.5536551,0.6,0.15,380301384,0.002878022,0.668,1,1,43,131,198,320
+Credit Card,Credit Card - Secured,Online Video,General Market,Brand,National,odp_vd_brd_imp,1335.637183,0.6,0.15,372404352,0.01243976,0.668,1,1,43,131,198,320
+Credit Card,Credit Card - Secured,Online Video,General Market,Deposits,National,odp_vd_dep_imp,336.6431765,0.3,0.3,101199898,0.012153508,0.668,1,1,43,131,198,320
+Credit Card,Credit Card - Secured,Outdoor,General Market,Deposits,National,toh_dpst_spd,470.9926803,0.6,0.3,1072149.405,1,0.668,1,1,43,131,198,320
+Credit Card,Credit Card - Secured,Radio,General Market,Brand,National,trd_brnd_spd,395.5617722,0.3,0.45,932153.265,1,0.668,1,1,43,131,198,320
+Credit Card,Credit Card - Secured,Radio,General Market,Traffic Driving,National,trd_trfc_spd,913.782678,0.6,0.15,2147885.081,1,0.668,1,1,43,131,198,320
+Credit Card,Credit Card - Secured,Television,General Market,Brand,National,ttv_brnd_trp,633.0144687,2,0.15,383.4,33818.11378,0.668,1,1,43,131,198,320
+Credit Card,Credit Card - Secured,Television,General Market,Deposits,National,ttv_dpst_trp,11035.8085,4,0.15,675.36,27396.33723,0.668,1,1,43,131,198,320
+Credit Card,Credit Card - Student,Online Banner,General Market,Brand,National,odp_nv_brd_imp,1340.496233,0.6,0.15,237308965,0.004969707,0.54,1,1,-59,-1,99,422
+Credit Card,Credit Card - Student,Online Banner,General Market,Deposits,National,odp_nv_dep_imp,2080.813542,0.6,0.3,374836881,0.004301019,0.54,1,1,-59,-1,99,422
+Credit Card,Credit Card - Student,Online Display,General Market,Traffic Driving,National,odp_tl_tdr_imp,2056.185245,0.6,0.45,380301384,0.002878022,0.54,1,1,-59,-1,99,422
+Credit Card,Credit Card - Student,Online Video,General Market,Deposits,National,odp_vd_dep_imp,851.0087337,0.3,0.45,101199898,0.012153508,0.54,1,1,-59,-1,99,422
+Credit Card,Credit Card - Student,Outdoor,General Market,Brand,National,toh_brnd_spd,2654.97,1,0.15,2157133.73,1,0.54,1,1,-59,-1,99,422
+Credit Card,Credit Card - Student,Radio,General Market,Traffic Driving,National,trd_trfc_spd,973.9026271,0.6,0.15,2147885.081,1,0.54,1,1,-59,-1,99,422
+Credit Card,Credit Card - Student,Television,General Market,Brand,National,ttv_brnd_trp,6503.425029,3,0.45,383.4,33818.11378,0.54,1,1,-59,-1,99,422
+Credit Card,Credit Card - Student,Television,General Market,Deposits,National,ttv_dpst_trp,11484.9704,4,0.45,675.36,27396.33723,0.54,1,1,-59,-1,99,422
+Home Equity,Home Equity,Newspaper,General Market,Traffic Driving,National,tnp_trfc_spd,258.1801165,0.3,0.15,770207.3998,1,0.2942,1,1,-1652,-69,736,1474
+Home Equity,Home Equity,Online Display,General Market,Traffic Driving,National,odp_tl_tdr_imp,325.7920291,1,0.45,380301384,0.002878022,0.2942,1,1,-1652,-69,736,1474
+Home Equity,Home Equity,Radio,General Market,Brand,National,trd_brnd_spd,429.404942,0.3,0.15,932153.265,1,0.2942,1,1,-1652,-69,736,1474
+Home Equity,Home Equity,Radio,General Market,Mortgage,National,trd_mrtg_spd,233.4546242,0.3,0.15,560378.429,1,0.2942,1,1,-1652,-69,736,1474
+Home Equity,Home Equity,Radio,General Market,Traffic Driving,National,trd_trfc_spd,674.0089417,3,0.45,2147885.081,1,0.2942,1,1,-1652,-69,736,1474
+Home Equity,Home Equity,Television,General Market,Brand,National,ttv_brnd_trp,1160.963545,3,0.3,383.4,33818.11378,0.2942,1,1,-1652,-69,736,1474
+Lines & Loans,Personal Lines & Loans,Online Banner,General Market,Brand,National,odp_nv_brd_imp,1600.681797,0.3,0.6,237308965,0.004969707,0.292,1,1,334,573,651,728
+Lines & Loans,Personal Lines & Loans,Online Display,General Market,Traffic Driving,National,odp_tl_tdr_imp,1098.212004,0.01,0.45,380301384,0.002878022,0.292,1,1,334,573,651,728
+Lines & Loans,Personal Lines & Loans,Online Video,General Market,Deposits,National,odp_vd_dep_imp,1726.554177,0.01,0.15,101199898,0.012153508,0.292,1,1,334,573,651,728
+Lines & Loans,Personal Lines & Loans,Outdoor,General Market,Deposits,National,toh_dpst_spd,1949.782643,1,0.45,1072149.405,1,0.292,1,1,334,573,651,728
+Lines & Loans,Personal Lines & Loans,Outdoor,General Market,Traffic Driving,National,toh_trfc_spd,1954.558927,3,0.15,282302.3664,1,0.292,1,1,334,573,651,728
+Lines & Loans,Personal Lines & Loans,Radio,Diverse Segment,Traffic Driving,National,trd_ds_trfc_spd,880.7919322,0.3,0.15,285001.92,1,0.292,1,1,334,573,651,728
+Lines & Loans,Personal Lines & Loans,Radio,General Market,Traffic Driving,National,trd_trfc_spd,5439.05465,2,0.15,2147885.081,1,0.292,1,1,334,573,651,728
+Lines & Loans,Personal Lines & Loans,Television,General Market,Brand,National,ttv_brnd_trp,4136.95925,3,0.15,383.4,33818.11378,0.292,1,1,334,573,651,728
+Lines & Loans,Personal Lines & Loans,Television,General Market,Deposits,National,ttv_dpst_trp,10736.41284,4,0.15,675.36,27396.33723,0.292,1,1,334,573,651,728
+Mortgage,Purchase Mortgage - Existing WF Customers,Online Display,General Market,Mortgage,National,odp_tl_mtg_spd,272.1048909,0.6,0.15,216734.588,1,0.23501625,1,1,711,1597,2067,2067
+Mortgage,Purchase Mortgage - Existing WF Customers,Online Display,General Market,Mortgage eLending,National,odp_tl_mel_spd,1459.505086,0.6,0.15,1236085.57,1,0.23501625,1,1,711,1597,2067,2067
+Mortgage,Purchase Mortgage - Existing WF Customers,Outdoor,General Market,Mortgage,National,toh_mrtg_spd,27.54627119,1,0.15,20028,1,0.23501625,1,1,711,1597,2067,2067
+Mortgage,Purchase Mortgage - Existing WF Customers,Paid Search,General Market,Mortgage,National,ops_mtg_tl_tl_clk,389.4308805,0.01,0.15,139537,1.987502023,0.23501625,1,1,711,1597,2067,2067
+Mortgage,Purchase Mortgage - Existing WF Customers,Radio,General Market,Mortgage,National,trd_mrtg_spd,837.8739175,1,0.15,560378.429,1,0.23501625,1,1,711,1597,2067,2067
+Mortgage,Purchase Mortgage - Existing WF Customers,Radio,General Market,Mortgage eLending,National,trd_meld_spd,304.5858926,1,0.15,449060.1,1,0.23501625,1,1,711,1597,2067,2067
+Mortgage,Purchase Mortgage - Existing WF Customers,Television,General Market,Deposits,National,ttv_dpst_trp,3232.39091,1,0.15,675.36,27396.33723,0.23501625,1,1,711,1597,2067,2067
+Mortgage,Purchase Mortgage - Existing WF Customers,Television,General Market,Mortgage,National,ttv_mrtg_trp,8345.464496,2,0.45,367.8,28375.57342,0.23501625,1,1,711,1597,2067,2067
+Mortgage,Purchase Mortgage - New WF Customers,Online Display,General Market,Mortgage,National,odp_tl_mtg_spd,487.3804625,0.6,0.15,216734.588,1,0.361693778,1,1,703,1577,2042,2042
+Mortgage,Purchase Mortgage - New WF Customers,Online Display,General Market,Mortgage eLending,National,odp_tl_mel_spd,712.2176046,0.6,0.15,1236085.57,1,0.361693778,1,1,703,1577,2042,2042
+Mortgage,Purchase Mortgage - New WF Customers,Paid Search,General Market,Mortgage,National,ops_mtg_tl_tl_clk,552.9172598,0.01,0.15,139537,1.987502023,0.361693778,1,1,703,1577,2042,2042
+Mortgage,Purchase Mortgage - New WF Customers,Radio,General Market,Brand,National,trd_brnd_spd,269.5700313,0.6,0.15,932153.265,1,0.361693778,1,1,703,1577,2042,2042
+Mortgage,Purchase Mortgage - New WF Customers,Radio,General Market,Mortgage,National,trd_mrtg_spd,386.8301009,1,0.15,560378.429,1,0.361693778,1,1,703,1577,2042,2042
+Mortgage,Purchase Mortgage - New WF Customers,Radio,General Market,Mortgage eLending,National,trd_meld_spd,551.2252632,1,0.15,449060.1,1,0.361693778,1,1,703,1577,2042,2042
+Mortgage,Purchase Mortgage - New WF Customers,Television,General Market,Brand,National,ttv_brnd_trp,1422.436697,1,0.45,383.4,33818.11378,0.361693778,1,1,703,1577,2042,2042
+Mortgage,Purchase Mortgage - New WF Customers,Television,General Market,Deposits,National,ttv_dpst_trp,4966.289375,1,0.45,675.36,27396.33723,0.361693778,1,1,703,1577,2042,2042
+Mortgage,Purchase Mortgage - New WF Customers,Television,General Market,Mortgage,National,ttv_mrtg_trp,11328.71911,2,0.45,367.8,28375.57342,0.361693778,1,1,703,1577,2042,2042
+Mortgage,Refi Mortgage - Existing WF Customers,Newspaper,Diverse Segment,Brand,National,tnp_ds_brnd_ecr,75.60138834,0.3,0.45,3530113,0.081350033,0.471357301,1,1,645,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Newspaper,General Market,Brand,National,tnp_brnd_spd,116.0271418,0.3,0.45,972597.78,1,0.471357301,1,1,645,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Online Banner,General Market,Deposits,National,odp_nv_dep_imp,452.1686112,0.01,0.3,374836881,0.004301019,0.471357301,1,1,645,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Online Display,General Market,Mortgage,National,odp_tl_mtg_spd,226.519448,0.3,0.15,216734.588,1,0.471357301,1,1,645,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Outdoor,General Market,Deposits,National,toh_dpst_spd,681.9717304,1,0.3,1072149.405,1,0.471357301,1,1,645,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Paid Search,General Market,Mortgage,National,ops_mtg_tl_tl_spd,348.3851821,0.01,0.15,298979.16,1,0.471357301,1,1,645,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Radio,General Market,Brand,National,trd_brnd_spd,403.4150636,0.6,0.45,932153.265,1,0.471357301,1,1,645,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Radio,General Market,Deposits,National,trd_dpst_spd,3972.037038,0.3,0.3,1179011.244,1,0.471357301,1,1,645,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Radio,General Market,Mortgage,National,trd_mrtg_spd,606.2750938,0.6,0.15,560378.429,1,0.471357301,1,1,645,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Television,General Market,Brand,National,ttv_brnd_trp,2809.97453,3,0.3,383.4,33818.11378,0.471357301,1,1,645,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Television,General Market,Deposits,National,ttv_dpst_trp,3843.043039,1,0.15,675.36,27396.33723,0.471357301,1,1,645,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Television,General Market,Mortgage,National,ttv_mrtg_trp,19535.85853,2,0.3,367.8,28375.57342,0.471357301,1,1,645,1448,1875,1875
+Mortgage,Refi Mortgage - New WF Customers,Newspaper,Diverse Segment,Brand,National,tnp_ds_brnd_ecr,80.44521741,0.6,0.45,3530113,0.081350033,0.828671157,1,1,449,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Newspaper,General Market,Brand,National,tnp_brnd_spd,183.125588,0.6,0.3,972597.78,1,0.828671157,1,1,449,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Online Display,General Market,Mortgage,National,odp_tl_mtg_spd,202.7837673,0.3,0.15,216734.588,1,0.828671157,1,1,449,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Outdoor,General Market,Deposits,National,toh_dpst_spd,117.8266699,1,0.3,1072149.405,1,0.828671157,1,1,449,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Paid Search,General Market,Mortgage,National,ops_mtg_tl_tl_spd,242.6050508,0.01,0.15,298979.16,1,0.828671157,1,1,449,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Radio,General Market,Brand,National,trd_brnd_spd,160.8558072,0.6,0.45,932153.265,1,0.828671157,1,1,449,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Radio,General Market,Mortgage,National,trd_mrtg_spd,221.6733617,0.6,0.15,560378.429,1,0.828671157,1,1,449,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Radio,General Market,Mortgage eLending,National,trd_meld_spd,90.56831888,0.6,0.15,449060.1,1,0.828671157,1,1,449,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Television,General Market,Brand,National,ttv_brnd_trp,988.5466335,3,0.3,383.4,33818.11378,0.828671157,1,1,449,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Television,General Market,Deposits,National,ttv_dpst_trp,2217.616825,1,0.15,675.36,27396.33723,0.828671157,1,1,449,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Television,General Market,Mortgage,National,ttv_mrtg_trp,3653.60211,2,0.3,367.8,28375.57342,0.828671157,1,1,449,1007,1305,1305
+WIM,WIM - Non-retirement,Newspaper,General Market,WIM Brokerage,National,tnp_wbrk_spd,911.7543314,1,0.3,1108767.736,1,1,1,1,252,635,844,844
+WIM,WIM - Non-retirement,Online Display,General Market,WIM Brokerage,National,odp_tl_wbg_spd,1355.502199,0.01,0.15,491624.74,1,1,1,1,252,635,844,844
+WIM,WIM - Non-retirement,Online Video,General Market,Brand,National,odp_vd_brd_imp,861.8606191,0.3,0.45,372404352,0.01243976,1,1,1,252,635,844,844
+WIM,WIM - Non-retirement,Paid Search,General Market,WIM Brokerage,National,ops_wfa_tl_tl_clk,228.7752674,0.01,0.15,37343,2.244086946,1,1,1,252,635,844,844
+WIM,WIM - Non-retirement,Paid Search,General Market,WIM Retirement,National,ops_wrt_tl_tl_clk,215.7178317,0.01,0.45,15757,3.815059801,1,1,1,252,635,844,844
+WIM,WIM - Non-retirement,Radio,General Market,Brand,National,trd_brnd_spd,370.3652332,0.6,0.45,932153.265,1,1,1,1,252,635,844,844
+WIM,WIM - Non-retirement,Radio,General Market,WIM Brokerage,National,trd_wbrk_spd,68.60203286,1,0.3,54189.285,1,1,1,1,252,635,844,844
+WIM,WIM - Non-retirement,Television,General Market,Brand,National,ttv_brnd_trp,1430.384704,3,0.15,383.4,33818.11378,1,1,1,252,635,844,844
+WIM,WIM - Non-retirement,Television,General Market,WIM Brokerage,National,ttv_wbrk_trp,2147.171718,2,0.15,102.66496,19782.80382,1,1,1,252,635,844,844
+WIM,WIM - Retirement,Magazine,General Market,WIM Brokerage,National,tmg_wbrk_spd,1166.24323,1,0.3,500902.0432,1,1,1,1,75,165,209,209
+WIM,WIM - Retirement,Magazine,General Market,WIM Retirement,National,tmg_wret_spd,3685.882438,2,0.45,689443.1069,1,1,1,1,75,165,209,209
+WIM,WIM - Retirement,Newspaper,General Market,Brand,National,tnp_brnd_spd,245.2474692,0.6,0.45,972597.78,1,1,1,1,75,165,209,209
+WIM,WIM - Retirement,Online Banner,General Market,Brand,National,odp_nv_brd_imp,489.741779,0.6,0.45,237308965,0.004969707,1,1,1,75,165,209,209
+WIM,WIM - Retirement,Online Display,General Market,WIM Brokerage,National,odp_tl_wbg_spd,788.6853183,0.3,0.3,491624.74,1,1,1,1,75,165,209,209
+WIM,WIM - Retirement,Online Display,General Market,WIM Retirement,National,odp_tl_wrt_spd,737.1736459,0.3,0.3,206610.6141,1,1,1,1,75,165,209,209
+WIM,WIM - Retirement,Online Video,General Market,Brand,National,odp_vd_brd_imp,1482.032991,2,0.15,372404352,0.01243976,1,1,1,75,165,209,209
+WIM,WIM - Retirement,Paid Search,General Market,WIM Brokerage,National,ops_wfa_tl_tl_clk,288.5920822,0.01,0.3,37343,2.244086946,1,1,1,75,165,209,209
+WIM,WIM - Retirement,Paid Search,General Market,WIM Retirement,National,ops_wrt_tl_tl_clk,147.7653715,0.01,0.15,15757,3.815059801,1,1,1,75,165,209,209
+WIM,WIM - Retirement,Television,General Market,Brand,National,ttv_brnd_trp,878.8668107,4,0.15,383.4,33818.11378,1,1,1,75,165,209,209
+WIM,WIM - Retirement,Television,General Market,WIM Brokerage,National,ttv_wbrk_spd,3186.942849,2,0.3,2501892.219,1,1,1,1,75,165,209,209
+WIM,WIM - Retirement,Television,General Market,WIM Retirement,National,ttv_wret_trp,913.7182454,2,0.15,144.67,29726.21653,1,1,1,75,165,209,209
