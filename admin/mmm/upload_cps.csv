@@ -1,55 +1,55 @@
-chan2_id,chan1_id,dma1_id,bdgt_id,chan2_name,chan1_name,dma1_name,cps
-11,7,2,11_7_2,Small Business,Magazine GM,National,1.0
-12,7,2,12_7_2,Traffic Driving,Magazine GM,National,1.0
-11,8,2,11_8_2,Small Business,Newspaper GM,National,1.0
-12,8,2,12_8_2,Traffic Driving,Newspaper GM,National,1.0
-13,9,2,13_9_2,Brand,Online Banner GM,National,0.004969707
-11,9,2,11_9_2,Small Business,Online Banner GM,National,0.005644796999999999
-13,10,2,13_10_2,Brand,Online Social GM,National,1.0
-11,10,2,11_10_2,Small Business,Online Social GM,National,1.0
-14,11,2,14_11_2,Deposits,Online Video GM,National,0.012153508
-11,11,2,11_11_2,Small Business,Online Video GM,National,0.026635957000000002
-11,12,2,11_12_2,Small Business,Outdoor GM,National,1.0
-11,13,2,11_13_2,Small Business,Paid Search GM,National,8.714527877
-11,14,2,11_14_2,Small Business,Radio GM,National,1.0
-13,15,2,13_15_2,Brand,Television DS,National,1.0
-13,16,2,13_16_2,Brand,Television GM,National,33818.11378
-14,16,2,14_16_2,Deposits,Television GM,National,27396.33723
-11,16,2,11_16_2,Small Business,Television GM,National,28701.676139999996
-12,17,2,12_17_2,Traffic Driving,Online Display GM,National,0.002878022
-13,14,2,13_14_2,Brand,Radio GM,National,1.0
-13,8,2,13_8_2,Brand,Newspaper GM,National,1.0
-11,17,2,11_17_2,Small Business,Online Display GM,National,0.006104041
-12,14,2,12_14_2,Traffic Driving,Radio GM,National,1.0
-13,18,2,13_18_2,Brand,Newspaper DS,National,0.081350033
-14,9,2,14_9_2,Deposits,Online Banner GM,National,0.0043010190000000005
-12,19,2,12_19_2,Traffic Driving,Online Display DS,National,0.00626765
-14,10,2,14_10_2,Deposits,Online Social GM,National,1.0
-13,11,2,13_11_2,Brand,Online Video GM,National,0.01243976
-14,12,2,14_12_2,Deposits,Outdoor GM,National,1.0
-13,13,2,13_13_2,Brand,Paid Search GM,National,1.0
-15,13,2,15_13_2,Deposits (Generic Banking),Paid Search GM,National,1.0
-16,13,2,16_13_2,Deposits (Generic Checking),Paid Search GM,National,1.0
-13,20,2,13_20_2,Brand,Radio DS,National,1.0
-12,20,2,12_20_2,Traffic Driving,Radio DS,National,1.0
-17,16,2,17_16_2,Mortgage,Television GM,National,28375.57342
-12,18,2,12_18_2,Traffic Driving,Newspaper DS,National,0.061419102
-12,12,2,12_12_2,Traffic Driving,Outdoor GM,National,1.0
-13,12,2,13_12_2,Brand,Outdoor GM,National,1.0
-17,14,2,17_14_2,Mortgage,Radio GM,National,1.0
-17,17,2,17_17_2,Mortgage,Online Display GM,National,1.0
-18,17,2,18_17_2,Mortgage eLending,Online Display GM,National,1.0
-17,12,2,17_12_2,Mortgage,Outdoor GM,National,1.0
-17,13,2,17_13_2,Mortgage,Paid Search GM,National,1.9875020230000002
-18,14,2,18_14_2,Mortgage eLending,Radio GM,National,1.0
-14,14,2,14_14_2,Deposits,Radio GM,National,1.0
-19,8,2,19_8_2,WIM Brokerage,Newspaper GM,National,1.0
-19,17,2,19_17_2,WIM Brokerage,Online Display GM,National,1.0
-19,13,2,19_13_2,WIM Brokerage,Paid Search GM,National,2.244086946
-20,13,2,20_13_2,WIM Retirement,Paid Search GM,National,3.8150598010000003
-19,14,2,19_14_2,WIM Brokerage,Radio GM,National,1.0
-19,16,2,19_16_2,WIM Brokerage,Television GM,National,19782.803819999997
-19,7,2,19_7_2,WIM Brokerage,Magazine GM,National,1.0
-20,7,2,20_7_2,WIM Retirement,Magazine GM,National,1.0
-20,17,2,20_17_2,WIM Retirement,Online Display GM,National,1.0
-20,16,2,20_16_2,WIM Retirement,Television GM,National,29726.21653
+chan3_id,chan2_id,chan1_id,dma1_id,bdgt_id,chan3_name,chan2_name,chan1_name,dma1_name,cps
+7,16,21,1,7_16_21_1,General Market,Small Business,Magazine,National,1.0
+7,17,21,1,7_17_21_1,General Market,Traffic Driving,Magazine,National,1.0
+7,16,22,1,7_16_22_1,General Market,Small Business,Newspaper,National,1.0
+7,17,22,1,7_17_22_1,General Market,Traffic Driving,Newspaper,National,1.0
+7,18,23,1,7_18_23_1,General Market,Brand,Online Banner,National,0.004969707
+7,16,23,1,7_16_23_1,General Market,Small Business,Online Banner,National,0.005644796999999999
+7,18,24,1,7_18_24_1,General Market,Brand,Online Social,National,1.0
+7,16,24,1,7_16_24_1,General Market,Small Business,Online Social,National,1.0
+7,19,25,1,7_19_25_1,General Market,Deposits,Online Video,National,0.012153508
+7,16,25,1,7_16_25_1,General Market,Small Business,Online Video,National,0.026635957000000002
+7,16,26,1,7_16_26_1,General Market,Small Business,Outdoor,National,1.0
+7,16,27,1,7_16_27_1,General Market,Small Business,Paid Search,National,8.714527877
+7,16,28,1,7_16_28_1,General Market,Small Business,Radio,National,1.0
+8,18,29,1,8_18_29_1,Diverse Segment,Brand,Television,National,1.0
+7,18,29,1,7_18_29_1,General Market,Brand,Television,National,33818.11378
+7,19,29,1,7_19_29_1,General Market,Deposits,Television,National,27396.33723
+7,16,29,1,7_16_29_1,General Market,Small Business,Television,National,28701.676139999996
+7,17,30,1,7_17_30_1,General Market,Traffic Driving,Online Display,National,0.002878022
+7,18,28,1,7_18_28_1,General Market,Brand,Radio,National,1.0
+7,18,22,1,7_18_22_1,General Market,Brand,Newspaper,National,1.0
+7,16,30,1,7_16_30_1,General Market,Small Business,Online Display,National,0.006104041
+7,17,28,1,7_17_28_1,General Market,Traffic Driving,Radio,National,1.0
+8,18,22,1,8_18_22_1,Diverse Segment,Brand,Newspaper,National,0.081350033
+7,19,23,1,7_19_23_1,General Market,Deposits,Online Banner,National,0.0043010190000000005
+8,17,30,1,8_17_30_1,Diverse Segment,Traffic Driving,Online Display,National,0.00626765
+7,19,24,1,7_19_24_1,General Market,Deposits,Online Social,National,1.0
+7,18,25,1,7_18_25_1,General Market,Brand,Online Video,National,0.01243976
+7,19,26,1,7_19_26_1,General Market,Deposits,Outdoor,National,1.0
+7,18,27,1,7_18_27_1,General Market,Brand,Paid Search,National,1.0
+7,20,27,1,7_20_27_1,General Market,Deposits (Generic Banking),Paid Search,National,1.0
+7,21,27,1,7_21_27_1,General Market,Deposits (Generic Checking),Paid Search,National,1.0
+8,18,28,1,8_18_28_1,Diverse Segment,Brand,Radio,National,1.0
+8,17,28,1,8_17_28_1,Diverse Segment,Traffic Driving,Radio,National,1.0
+7,22,29,1,7_22_29_1,General Market,Mortgage,Television,National,28375.57342
+8,17,22,1,8_17_22_1,Diverse Segment,Traffic Driving,Newspaper,National,0.061419102
+7,17,26,1,7_17_26_1,General Market,Traffic Driving,Outdoor,National,1.0
+7,18,26,1,7_18_26_1,General Market,Brand,Outdoor,National,1.0
+7,22,28,1,7_22_28_1,General Market,Mortgage,Radio,National,1.0
+7,22,30,1,7_22_30_1,General Market,Mortgage,Online Display,National,1.0
+7,23,30,1,7_23_30_1,General Market,Mortgage eLending,Online Display,National,1.0
+7,22,26,1,7_22_26_1,General Market,Mortgage,Outdoor,National,1.0
+7,22,27,1,7_22_27_1,General Market,Mortgage,Paid Search,National,1.9875020230000002
+7,23,28,1,7_23_28_1,General Market,Mortgage eLending,Radio,National,1.0
+7,19,28,1,7_19_28_1,General Market,Deposits,Radio,National,1.0
+7,24,22,1,7_24_22_1,General Market,WIM Brokerage,Newspaper,National,1.0
+7,24,30,1,7_24_30_1,General Market,WIM Brokerage,Online Display,National,1.0
+7,24,27,1,7_24_27_1,General Market,WIM Brokerage,Paid Search,National,2.244086946
+7,25,27,1,7_25_27_1,General Market,WIM Retirement,Paid Search,National,3.8150598010000003
+7,24,28,1,7_24_28_1,General Market,WIM Brokerage,Radio,National,1.0
+7,24,29,1,7_24_29_1,General Market,WIM Brokerage,Television,National,19782.803819999997
+7,24,21,1,7_24_21_1,General Market,WIM Brokerage,Magazine,National,1.0
+7,25,21,1,7_25_21_1,General Market,WIM Retirement,Magazine,National,1.0
+7,25,30,1,7_25_30_1,General Market,WIM Retirement,Online Display,National,1.0
+7,25,29,1,7_25_29_1,General Market,WIM Retirement,Television,National,29726.21653
