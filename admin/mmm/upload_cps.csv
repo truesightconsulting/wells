@@ -1,55 +1,55 @@
 chan3_id,chan2_id,chan1_id,dma1_id,bdgt_id,chan3_name,chan2_name,chan1_name,dma1_name,cps
-9,26,21,1,9_26_21_1,Small Business,General Market,Magazine,National,1.0
-10,26,21,1,10_26_21_1,Traffic Driving,General Market,Magazine,National,1.0
-9,26,22,1,9_26_22_1,Small Business,General Market,Newspaper,National,1.0
-10,26,22,1,10_26_22_1,Traffic Driving,General Market,Newspaper,National,1.0
-11,26,23,1,11_26_23_1,Brand,General Market,Online Banner,National,0.004969707
-9,26,23,1,9_26_23_1,Small Business,General Market,Online Banner,National,0.005644796999999999
-11,26,24,1,11_26_24_1,Brand,General Market,Online Social,National,1.0
-9,26,24,1,9_26_24_1,Small Business,General Market,Online Social,National,1.0
-12,26,25,1,12_26_25_1,Deposits,General Market,Online Video,National,0.012153508
-9,26,25,1,9_26_25_1,Small Business,General Market,Online Video,National,0.026635957000000002
-9,26,26,1,9_26_26_1,Small Business,General Market,Outdoor,National,1.0
-9,26,27,1,9_26_27_1,Small Business,General Market,Paid Search,National,8.714527877
-9,26,28,1,9_26_28_1,Small Business,General Market,Radio,National,1.0
-11,27,29,1,11_27_29_1,Brand,Diverse Segment,Television,National,1.0
-11,26,29,1,11_26_29_1,Brand,General Market,Television,National,33818.11378
-12,26,29,1,12_26_29_1,Deposits,General Market,Television,National,27396.33723
-9,26,29,1,9_26_29_1,Small Business,General Market,Television,National,28701.676139999996
-10,26,30,1,10_26_30_1,Traffic Driving,General Market,Online Display,National,0.002878022
-11,26,28,1,11_26_28_1,Brand,General Market,Radio,National,1.0
-11,26,22,1,11_26_22_1,Brand,General Market,Newspaper,National,1.0
-9,26,30,1,9_26_30_1,Small Business,General Market,Online Display,National,0.006104041
-10,26,28,1,10_26_28_1,Traffic Driving,General Market,Radio,National,1.0
-11,27,22,1,11_27_22_1,Brand,Diverse Segment,Newspaper,National,0.081350033
-12,26,23,1,12_26_23_1,Deposits,General Market,Online Banner,National,0.0043010190000000005
-10,27,30,1,10_27_30_1,Traffic Driving,Diverse Segment,Online Display,National,0.00626765
-12,26,24,1,12_26_24_1,Deposits,General Market,Online Social,National,1.0
-11,26,25,1,11_26_25_1,Brand,General Market,Online Video,National,0.01243976
-12,26,26,1,12_26_26_1,Deposits,General Market,Outdoor,National,1.0
-11,26,27,1,11_26_27_1,Brand,General Market,Paid Search,National,1.0
-13,26,27,1,13_26_27_1,Deposits (Generic Banking),General Market,Paid Search,National,1.0
-14,26,27,1,14_26_27_1,Deposits (Generic Checking),General Market,Paid Search,National,1.0
-11,27,28,1,11_27_28_1,Brand,Diverse Segment,Radio,National,1.0
-10,27,28,1,10_27_28_1,Traffic Driving,Diverse Segment,Radio,National,1.0
-15,26,29,1,15_26_29_1,Mortgage,General Market,Television,National,28375.57342
-10,27,22,1,10_27_22_1,Traffic Driving,Diverse Segment,Newspaper,National,0.061419102
-10,26,26,1,10_26_26_1,Traffic Driving,General Market,Outdoor,National,1.0
-11,26,26,1,11_26_26_1,Brand,General Market,Outdoor,National,1.0
-15,26,28,1,15_26_28_1,Mortgage,General Market,Radio,National,1.0
-15,26,30,1,15_26_30_1,Mortgage,General Market,Online Display,National,1.0
-16,26,30,1,16_26_30_1,Mortgage eLending,General Market,Online Display,National,1.0
-15,26,26,1,15_26_26_1,Mortgage,General Market,Outdoor,National,1.0
-15,26,27,1,15_26_27_1,Mortgage,General Market,Paid Search,National,1.9875020230000002
-16,26,28,1,16_26_28_1,Mortgage eLending,General Market,Radio,National,1.0
-12,26,28,1,12_26_28_1,Deposits,General Market,Radio,National,1.0
-17,26,22,1,17_26_22_1,WIM Brokerage,General Market,Newspaper,National,1.0
-17,26,30,1,17_26_30_1,WIM Brokerage,General Market,Online Display,National,1.0
-17,26,27,1,17_26_27_1,WIM Brokerage,General Market,Paid Search,National,2.244086946
-18,26,27,1,18_26_27_1,WIM Retirement,General Market,Paid Search,National,3.8150598010000003
-17,26,28,1,17_26_28_1,WIM Brokerage,General Market,Radio,National,1.0
-17,26,29,1,17_26_29_1,WIM Brokerage,General Market,Television,National,19782.803819999997
-17,26,21,1,17_26_21_1,WIM Brokerage,General Market,Magazine,National,1.0
-18,26,21,1,18_26_21_1,WIM Retirement,General Market,Magazine,National,1.0
-18,26,30,1,18_26_30_1,WIM Retirement,General Market,Online Display,National,1.0
-18,26,29,1,18_26_29_1,WIM Retirement,General Market,Television,National,29726.21653
+13,21,21,2,13_21_21_2,Small Business,General Market,Magazine,National,1.0
+14,21,21,2,14_21_21_2,Traffic Driving,General Market,Magazine,National,1.0
+13,21,22,2,13_21_22_2,Small Business,General Market,Newspaper,National,1.0
+14,21,22,2,14_21_22_2,Traffic Driving,General Market,Newspaper,National,1.0
+15,21,23,2,15_21_23_2,Brand,General Market,Online Banner,National,0.004969707
+13,21,23,2,13_21_23_2,Small Business,General Market,Online Banner,National,0.005644796999999999
+15,21,24,2,15_21_24_2,Brand,General Market,Online Social,National,1.0
+13,21,24,2,13_21_24_2,Small Business,General Market,Online Social,National,1.0
+16,21,25,2,16_21_25_2,Deposits,General Market,Online Video,National,0.012153508
+13,21,25,2,13_21_25_2,Small Business,General Market,Online Video,National,0.026635957000000002
+13,21,26,2,13_21_26_2,Small Business,General Market,Outdoor,National,1.0
+13,21,27,2,13_21_27_2,Small Business,General Market,Paid Search,National,8.714527877
+13,21,28,2,13_21_28_2,Small Business,General Market,Radio,National,1.0
+15,22,29,2,15_22_29_2,Brand,Diverse Segment,Television,National,1.0
+15,21,29,2,15_21_29_2,Brand,General Market,Television,National,33818.11378
+16,21,29,2,16_21_29_2,Deposits,General Market,Television,National,27396.33723
+13,21,29,2,13_21_29_2,Small Business,General Market,Television,National,28701.676139999996
+14,21,30,2,14_21_30_2,Traffic Driving,General Market,Online Display,National,0.002878022
+15,21,28,2,15_21_28_2,Brand,General Market,Radio,National,1.0
+15,21,22,2,15_21_22_2,Brand,General Market,Newspaper,National,1.0
+13,21,30,2,13_21_30_2,Small Business,General Market,Online Display,National,0.006104041
+14,21,28,2,14_21_28_2,Traffic Driving,General Market,Radio,National,1.0
+15,22,22,2,15_22_22_2,Brand,Diverse Segment,Newspaper,National,0.081350033
+16,21,23,2,16_21_23_2,Deposits,General Market,Online Banner,National,0.0043010190000000005
+14,22,30,2,14_22_30_2,Traffic Driving,Diverse Segment,Online Display,National,0.00626765
+16,21,24,2,16_21_24_2,Deposits,General Market,Online Social,National,1.0
+15,21,25,2,15_21_25_2,Brand,General Market,Online Video,National,0.01243976
+16,21,26,2,16_21_26_2,Deposits,General Market,Outdoor,National,1.0
+15,21,27,2,15_21_27_2,Brand,General Market,Paid Search,National,1.0
+17,21,27,2,17_21_27_2,Deposits (Generic Banking),General Market,Paid Search,National,1.0
+18,21,27,2,18_21_27_2,Deposits (Generic Checking),General Market,Paid Search,National,1.0
+15,22,28,2,15_22_28_2,Brand,Diverse Segment,Radio,National,1.0
+14,22,28,2,14_22_28_2,Traffic Driving,Diverse Segment,Radio,National,1.0
+19,21,29,2,19_21_29_2,Mortgage,General Market,Television,National,28375.57342
+14,22,22,2,14_22_22_2,Traffic Driving,Diverse Segment,Newspaper,National,0.061419102
+14,21,26,2,14_21_26_2,Traffic Driving,General Market,Outdoor,National,1.0
+15,21,26,2,15_21_26_2,Brand,General Market,Outdoor,National,1.0
+19,21,28,2,19_21_28_2,Mortgage,General Market,Radio,National,1.0
+19,21,30,2,19_21_30_2,Mortgage,General Market,Online Display,National,1.0
+20,21,30,2,20_21_30_2,Mortgage eLending,General Market,Online Display,National,1.0
+19,21,26,2,19_21_26_2,Mortgage,General Market,Outdoor,National,1.0
+19,21,27,2,19_21_27_2,Mortgage,General Market,Paid Search,National,1.9875020230000002
+20,21,28,2,20_21_28_2,Mortgage eLending,General Market,Radio,National,1.0
+16,21,28,2,16_21_28_2,Deposits,General Market,Radio,National,1.0
+21,21,22,2,21_21_22_2,WIM Brokerage,General Market,Newspaper,National,1.0
+21,21,30,2,21_21_30_2,WIM Brokerage,General Market,Online Display,National,1.0
+21,21,27,2,21_21_27_2,WIM Brokerage,General Market,Paid Search,National,2.244086946
+22,21,27,2,22_21_27_2,WIM Retirement,General Market,Paid Search,National,3.8150598010000003
+21,21,28,2,21_21_28_2,WIM Brokerage,General Market,Radio,National,1.0
+21,21,29,2,21_21_29_2,WIM Brokerage,General Market,Television,National,19782.803819999997
+21,21,21,2,21_21_21_2,WIM Brokerage,General Market,Magazine,National,1.0
+22,21,21,2,22_21_21_2,WIM Retirement,General Market,Magazine,National,1.0
+22,21,30,2,22_21_30_2,WIM Retirement,General Market,Online Display,National,1.0
+22,21,29,2,22_21_29_2,WIM Retirement,General Market,Television,National,29726.21653
