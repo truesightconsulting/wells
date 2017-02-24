@@ -1,0 +1,16 @@
+sales1_name,sales2_name,clv,approval
+Consumer Deposits,Consumer Checking - New Checking Customers,112,1
+Credit Card,Credit Card - Core,-41,0.222
+Credit Card,Credit Card - Student,-59,0.54
+Credit Card,Credit Card - Secured,43,0.668
+Lines & Loans,Personal Lines & Loans,334,0.292
+Home Equity,Home Equity,-1652,0.2942
+Business,Business Checking - New Checking Customers,344,1
+Business,Business Direct - Store Channel,153,0.25
+Business,Business Direct - Direct Channel,265,0.3
+WIM,WIM - Non-retirement,252,1
+WIM,WIM - Retirement,75,1
+Mortgage,Purchase Mortgage - New WF Customers,703,0.361693778
+Mortgage,Purchase Mortgage - Existing WF Customers,711,0.23501625
+Mortgage,Refi Mortgage - New WF Customers,449,0.828671157
+Mortgage,Refi Mortgage - Existing WF Customers,645,0.471357301

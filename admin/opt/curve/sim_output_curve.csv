@@ -1,0 +1,50 @@
+bdgt_id,dma1_id.x,chan1_id.x,sales1_id,chan2_id.x,a,b,npv,sp,npv_p,dma1_name,chan1_name,sales1_name,chan2_name,dim,dma1_id.y,chan1_id.y,chan2_id.y,cpp
+1_1_4,1,1,1,4,21.44833025,0.000196693,21.18604651,22390.09302,21.3295514,National,Online Display,Acquisition Bundles,Double Click Banner,National_Online Display_Acquisition Bundles_Double Click Banner,1,1,4,1
+1_1_4,1,1,2,4,61.53525609,1.96E-05,21.88372093,22390.09302,21.01218027,National,Online Display,Cross-Sell Mobile,Double Click Banner,National_Online Display_Cross-Sell Mobile_Double Click Banner,1,1,4,1
+1_1_4,1,1,4,4,7.363915065,8.01E-05,6.139534884,22390.09302,6.193900492,National,Online Display,Acquisition DTV - TV only,Double Click Banner,National_Online Display_Acquisition DTV - TV only_Double Click Banner,1,1,4,1
+1_1_4,1,1,5,4,9.789249632,0.000152205,9.465116279,22390.09302,9.601391628,National,Online Display,Up-Sell Whop to Whoppa,Double Click Banner,National_Online Display_Up-Sell Whop to Whoppa_Double Click Banner,1,1,4,1
+1_1_5,1,1,3,5,29.74169636,0.000344781,28.74418605,9846.953488,28.81434407,National,Online Display,Acquisition Internet Only,Double Click Video,National_Online Display_Acquisition Internet Only_Double Click Video,1,1,5,1
+1_1_5,1,1,5,5,4.067353187,0.000237343,3.674418605,9846.953488,3.715918546,National,Online Display,Up-Sell Whop to Whoppa,Double Click Video,National_Online Display_Up-Sell Whop to Whoppa_Double Click Video,1,1,5,1
+1_10_2,1,10,2,2,167.9172189,1.01E-05,53.65116279,38043.55814,51.49995963,National,Direct Marketing,Cross-Sell Mobile,Cross Sell,National_Direct Marketing_Cross-Sell Mobile_Cross Sell,1,10,2,1
+1_10_3,1,10,5,3,45.63296033,3.95E-05,16.8372093,11664.18605,16.54555443,National,Direct Marketing,Up-Sell Whop to Whoppa,Upsell,National_Direct Marketing_Up-Sell Whop to Whoppa_Upsell,1,10,3,1
+1_2_2,1,2,2,2,192.2342532,0.000313087,84.20930233,9204.348837,81.97230534,National,Outbound Calls,Cross-Sell Mobile,Cross Sell,National_Outbound Calls_Cross-Sell Mobile_Cross Sell,1,2,2,5
+1_2_3,1,2,5,3,23.28934273,0.000108194,7.813953488,18889.37209,7.734360773,National,Outbound Calls,Up-Sell Whop to Whoppa,Upsell,National_Outbound Calls_Up-Sell Whop to Whoppa_Upsell,1,2,3,5
+1_2_6,1,2,1,6,63.18107353,0.000294169,4.372093023,1218.860465,4.263466467,National,Outbound Calls,Acquisition Bundles,Acquisition,National_Outbound Calls_Acquisition Bundles_Acquisition,1,2,6,5
+1_2_6,1,2,3,6,2.490838563,0.001623161,0.813953488,1218.860465,0.782419527,National,Outbound Calls,Acquisition Internet Only,Acquisition,National_Outbound Calls_Acquisition Internet Only_Acquisition,1,2,6,5
+1_2_6,1,2,4,6,5.189692679,0.001234675,1.348837209,1218.860465,1.313422254,National,Outbound Calls,Acquisition DTV - TV only,Acquisition,National_Outbound Calls_Acquisition DTV - TV only_Acquisition,1,2,6,5
+1_3_1,1,3,1,1,93.93714362,3.24E-05,54.60465116,26899.88372,53.90242104,National,Outdoor,Acquisition Bundles,Connectivity,National_Outdoor_Acquisition Bundles_Connectivity,1,3,1,1
+1_3_1,1,3,2,1,186.0199126,1.50E-05,61.81395349,26899.88372,58.99245925,National,Outdoor,Cross-Sell Mobile,Connectivity,National_Outdoor_Cross-Sell Mobile_Connectivity,1,3,1,1
+1_3_1,1,3,3,1,195.319282,4.16E-06,20.69767442,26899.88372,20.4903564,National,Outdoor,Acquisition Internet Only,Connectivity,National_Outdoor_Acquisition Internet Only_Connectivity,1,3,1,1
+1_3_1,1,3,4,1,0.536252814,4.40E-05,0.372093023,26899.88372,0.37086501,National,Outdoor,Acquisition DTV - TV only,Connectivity,National_Outdoor_Acquisition DTV - TV only_Connectivity,1,3,1,1
+1_4_1,1,4,1,1,141.8941904,0.001460611,22,14071.90698,21.15896247,National,Radio,Acquisition Bundles,Connectivity,National_Radio_Acquisition Bundles_Connectivity,1,4,1,122
+1_4_1,1,4,2,1,55.30910704,0.003316552,17.58139535,14071.90698,16.77973712,National,Radio,Cross-Sell Mobile,Connectivity,National_Radio_Cross-Sell Mobile_Connectivity,1,4,1,122
+1_4_1,1,4,3,1,8.362847947,0.007661675,4.906976744,14071.90698,4.813002077,National,Radio,Acquisition Internet Only,Connectivity,National_Radio_Acquisition Internet Only_Connectivity,1,4,1,122
+1_4_1,1,4,4,1,1.559760465,0.01238732,1.186046512,14071.90698,1.190890154,National,Radio,Acquisition DTV - TV only,Connectivity,National_Radio_Acquisition DTV - TV only_Connectivity,1,4,1,122
+1_4_1,1,4,5,1,8.279918188,0.005085522,3.674418605,14071.90698,3.542563418,National,Radio,Up-Sell Whop to Whoppa,Connectivity,National_Radio_Up-Sell Whop to Whoppa_Connectivity,1,4,1,122
+1_5_1,1,5,1,1,104.1441563,4.98E-07,21.74418605,10037,20.71772244,National,DoortoDoor,Acquisition Bundles,Connectivity,National_DoortoDoor_Acquisition Bundles_Connectivity,1,5,1,0.02132616
+1_5_1,1,5,2,1,73.70768432,3.30E-06,58.09302326,10037,58.12674972,National,DoortoDoor,Cross-Sell Mobile,Connectivity,National_DoortoDoor_Cross-Sell Mobile_Connectivity,1,5,1,0.02132616
+1_5_1,1,5,3,1,12.95023742,8.18E-06,12.6744186,10037,12.78375707,National,DoortoDoor,Acquisition Internet Only,Connectivity,National_DoortoDoor_Acquisition Internet Only_Connectivity,1,5,1,0.02132616
+1_5_1,1,5,4,1,7.470244133,5.88E-06,7,10037,7.089568567,National,DoortoDoor,Acquisition DTV - TV only,Connectivity,National_DoortoDoor_Acquisition DTV - TV only_Connectivity,1,5,1,0.02132616
+1_5_1,1,5,5,1,17.86553775,7.52E-07,5.325581395,10037,5.094076638,National,DoortoDoor,Up-Sell Whop to Whoppa,Connectivity,National_DoortoDoor_Up-Sell Whop to Whoppa_Connectivity,1,5,1,0.02132616
+1_6_1,1,6,1,1,37.45868887,6.06E-06,14.90697674,29602.16279,14.62128711,National,Dailies,Acquisition Bundles,Connectivity,National_Dailies_Acquisition Bundles_Connectivity,1,6,1,0.353803139
+1_6_1,1,6,2,1,108.5303775,8.64E-06,55.8372093,29602.16279,54.47903554,National,Dailies,Cross-Sell Mobile,Connectivity,National_Dailies_Cross-Sell Mobile_Connectivity,1,6,1,0.353803139
+1_6_1,1,6,5,1,5.423156395,1.86E-05,4.279069767,29602.16279,4.265558348,National,Dailies,Up-Sell Whop to Whoppa,Connectivity,National_Dailies_Up-Sell Whop to Whoppa_Connectivity,1,6,1,0.353803139
+1_7_7,1,7,1,7,132.2369444,0.001428523,124.4651163,1983.930233,125.9644618,National,Search,Acquisition Bundles,Unbranded,National_Search_Acquisition Bundles_Unbranded,1,7,7,1
+1_7_7,1,7,2,7,16.39773328,0.004453753,16.39534884,1983.930233,16.42188525,National,Search,Cross-Sell Mobile,Unbranded,National_Search_Cross-Sell Mobile_Unbranded,1,7,7,1
+1_7_7,1,7,3,7,48.28055415,0.000482524,29.74418605,1983.930233,29.24292896,National,Search,Acquisition Internet Only,Unbranded,National_Search_Acquisition Internet Only_Unbranded,1,7,7,1
+1_7_7,1,7,5,7,15.63953652,0.003077472,15.60465116,1983.930233,15.66480857,National,Search,Up-Sell Whop to Whoppa,Unbranded,National_Search_Up-Sell Whop to Whoppa_Unbranded,1,7,7,1
+1_8_1,1,8,1,1,34.84025571,2.45E-05,17.27906977,8486.232558,16.84500033,National,Facebook,Acquisition Bundles,Connectivity,National_Facebook_Acquisition Bundles_Connectivity,1,8,1,0.302992134
+1_8_1,1,8,2,1,12.63480958,0.000182258,12.55813953,8486.232558,12.6375369,National,Facebook,Cross-Sell Mobile,Connectivity,National_Facebook_Cross-Sell Mobile_Connectivity,1,8,1,0.302992134
+1_8_1,1,8,3,1,18.28766214,2.34E-05,8.790697674,8486.232558,8.577747647,National,Facebook,Acquisition Internet Only,Connectivity,National_Facebook_Acquisition Internet Only_Connectivity,1,8,1,0.302992134
+1_8_1,1,8,4,1,0.7706814,0.000195367,0.76744186,8486.232558,0.770072793,National,Facebook,Acquisition DTV - TV only,Connectivity,National_Facebook_Acquisition DTV - TV only_Connectivity,1,8,1,0.302992134
+1_8_1,1,8,5,1,14.7334463,1.89E-05,6.046511628,8486.232558,5.815323658,National,Facebook,Up-Sell Whop to Whoppa,Connectivity,National_Facebook_Up-Sell Whop to Whoppa_Connectivity,1,8,1,0.302992134
+1_9_1,1,9,1,1,220.0046027,0.009864773,172.3255814,93472.16279,172.2534043,National,Television,Acquisition Bundles,Connectivity,National_Television_Acquisition Bundles_Connectivity,1,9,1,603
+1_9_1,1,9,2,1,248.8557301,0.004576847,126.4418605,93472.16279,125.0128284,National,Television,Cross-Sell Mobile,Connectivity,National_Television_Cross-Sell Mobile_Connectivity,1,9,1,603
+1_9_1,1,9,3,1,47.14294388,0.020921511,45.30232558,93472.16279,45.55576098,National,Television,Acquisition Internet Only,Connectivity,National_Television_Acquisition Internet Only_Connectivity,1,9,1,603
+1_9_1,1,9,4,1,84.41646491,0.016394179,77.76744186,93472.16279,79.01362478,National,Television,Acquisition DTV - TV only,Connectivity,National_Television_Acquisition DTV - TV only_Connectivity,1,9,1,603
+1_9_1,1,9,5,1,46.16985402,0.007824497,32.44186047,93472.16279,32.07699944,National,Television,Up-Sell Whop to Whoppa,Connectivity,National_Television_Up-Sell Whop to Whoppa_Connectivity,1,9,1,603
+1_10_8,1,10,1,8,1,30,1,1,1,National,Base,Acquisition Bundles,Base,National_Base_Acquisition Bundles_Base,1,10,8,1
+1_10_8,1,10,2,8,1,30,1,1,1,National,Base,Cross-Sell Mobile,Base,National_Base_Cross-Sell Mobile_Base,1,10,8,1
+1_10_8,1,10,3,8,1,30,1,1,1,National,Base,Acquisition Internet Only,Base,National_Base_Acquisition Internet Only_Base,1,10,8,1
+1_10_8,1,10,4,8,1,30,1,1,1,National,Base,Acquisition DTV - TV only,Base,National_Base_Acquisition DTV - TV only_Base,1,10,8,1
+1_10_8,1,10,5,8,1,30,1,1,1,National,Base,Up-Sell Whop to Whoppa,Base,National_Base_Up-Sell Whop to Whoppa_Base,1,10,8,1

@@ -1,0 +1,45 @@
+sales1_name,chan1_name,chan2_name,all_name,hl,hrf,max,cps,wks,dma1_name,decomp,spend
+Acquisition Bundles,Online Display,Double Click Banner,overall,0.77,0.9,148244,1,1,National,21.18604651,22390.09302
+Acquisition Bundles,Outbound Calls,Acquisition,overall,2.31,0.2,13000,5,1,National,4.372093023,1218.860465
+Acquisition Bundles,Outdoor,Connectivity,overall,2.31,0.6,470158,1,1,National,54.60465116,26899.88372
+Acquisition Bundles,Radio,Connectivity,overall,0.77,0.1,967,122,1,National,22,14071.90698
+Acquisition Bundles,DoortoDoor,Connectivity,overall,0.77,0.1,2783582,0.02132616,1,National,21.74418605,10037
+Acquisition Bundles,Dailies,Connectivity,overall,3.47,0.2,645787,0.353803139,1,National,14.90697674,29602.16279
+Acquisition Bundles,Search,Unbranded,overall,1.16,0.3,3555,1,1,National,124.4651163,1983.930233
+Acquisition Bundles,Facebook,Connectivity,overall,0.77,0.25,153376,0.302992134,1,National,17.27906977,8486.232558
+Acquisition Bundles,Television,Connectivity,overall,6.93,0.2,421,603,1,National,172.3255814,93472.16279
+Cross-Sell Mobile,Television,Connectivity,overall,5.33,0.1,421,603,1,National,126.4418605,93472.16279
+Cross-Sell Mobile,Outbound Calls,Cross Sell,overall,1.73,0.3,17974,5,1,National,84.20930233,9204.348837
+Cross-Sell Mobile,DoortoDoor,Connectivity,overall,0.87,0.5,2783582,0.02132616,1,National,58.09302326,10037
+Cross-Sell Mobile,Outdoor,Connectivity,overall,0.99,0.4,470158,1,1,National,61.81395349,26899.88372
+Cross-Sell Mobile,Direct Marketing,Cross Sell,overall,1.73,0.5,1072403,1,1,National,53.65116279,38043.55814
+Cross-Sell Mobile,Radio,Connectivity,overall,1.16,0.2,967,122,1,National,17.58139535,14071.90698
+Cross-Sell Mobile,Dailies,Connectivity,overall,1.73,0.3,645787,0.353803139,1,National,55.8372093,29602.16279
+Cross-Sell Mobile,Search,Unbranded,overall,0.77,0.7,3555,1,1,National,16.39534884,1983.930233
+Cross-Sell Mobile,Online Display,Double Click Banner,overall,0.77,0.2,148244,1,1,National,21.88372093,22390.09302
+Cross-Sell Mobile,Facebook,Connectivity,overall,3.47,0.8,153376,0.302992134,1,National,12.55813953,8486.232558
+Acquisition Internet Only,Outbound Calls,Acquisition,overall,0.77,0.8,13000,5,1,National,0.813953488,1218.860465
+Acquisition Internet Only,Search,Unbranded,overall,2.2,0.1,3555,1,1,National,29.74418605,1983.930233
+Acquisition Internet Only,Online Display,Double Click Video,overall,9.1,0.8,87439,1,1,National,28.74418605,9846.953488
+Acquisition Internet Only,Facebook,Connectivity,overall,1.94,0.2,153376,0.302992134,1,National,8.790697674,8486.232558
+Acquisition Internet Only,Outdoor,Connectivity,overall,5.07,0.1,470158,1,1,National,20.69767442,26899.88372
+Acquisition Internet Only,DoortoDoor,Connectivity,overall,2.38,0.75,2783582,0.02132616,1,National,12.6744186,10037
+Acquisition Internet Only,Television,Connectivity,overall,3.66,0.4,421,603,1,National,45.30232558,93472.16279
+Acquisition Internet Only,Radio,Connectivity,overall,1.2,0.4,967,122,1,National,4.906976744,14071.90698
+Acquisition DTV - TV only,Television,Connectivity,overall,0.87,0.4,421,603,1,National,77.76744186,93472.16279
+Acquisition DTV - TV only,Outdoor,Connectivity,overall,0.73,0.8,470158,1,1,National,0.372093023,26899.88372
+Acquisition DTV - TV only,DoortoDoor,Connectivity,overall,0.96,0.7,2783582,0.02132616,1,National,7,10037
+Acquisition DTV - TV only,Outbound Calls,Acquisition,overall,3.37,0.6,13000,5,1,National,1.348837209,1218.860465
+Acquisition DTV - TV only,Radio,Connectivity,overall,0.77,0.6,967,122,1,National,1.186046512,14071.90698
+Acquisition DTV - TV only,Online Display,Double Click Banner,overall,0.77,0.6,148244,1,1,National,6.139534884,22390.09302
+Acquisition DTV - TV only,Facebook,Connectivity,overall,0.77,0.9,153376,0.302992134,1,National,0.76744186,8486.232558
+Up-Sell Whop to Whoppa,Television,Connectivity,overall,1.39,0.2,421,603,1,National,32.44186047,93472.16279
+Up-Sell Whop to Whoppa,Radio,Connectivity,overall,0.99,0.3,967,122,1,National,3.674418605,14071.90698
+Up-Sell Whop to Whoppa,Search,Unbranded,overall,0.9,0.55,3555,1,1,National,15.60465116,1983.930233
+Up-Sell Whop to Whoppa,Online Display,Double Click Banner,overall,0.99,0.8,148244,1,1,National,9.465116279,22390.09302
+Up-Sell Whop to Whoppa,Dailies,Connectivity,overall,0.87,0.6,645787,0.353803139,1,National,4.279069767,29602.16279
+Up-Sell Whop to Whoppa,DoortoDoor,Connectivity,overall,0.73,0.15,2783582,0.02132616,1,National,5.325581395,10037
+Up-Sell Whop to Whoppa,Outbound Calls,Upsell,overall,4.62,0.2,37745,5,1,National,7.813953488,18889.37209
+Up-Sell Whop to Whoppa,Online Display,Double Click Video,overall,0.77,0.8,87439,1,1,National,3.674418605,9846.953488
+Up-Sell Whop to Whoppa,Facebook,Connectivity,overall,0.77,0.2,153376,0.302992134,1,National,6.046511628,8486.232558
+Up-Sell Whop to Whoppa,Direct Marketing,Upsell,overall,8.66,0.5,328800,1,1,National,16.8372093,11664.18605

@@ -1,0 +1,139 @@
+sales1_name,sales2_name,chan1_name,chan2_name,chan3_name,dma1_name,hl,hrf,max,cpp,wks,beta,curvegroup_name,factor_1,factor_2,factor_3
+Consumer Deposits,Consumer Checking - New Checking Customers,Television,General Market,Deposits,National,5,0.15,141.33,29371.62418,1,3797.4202,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Outdoor,General Market,Deposits,National,1,0.15,1072149.405,1,1,904.9416493,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Online Display,General Market,Deposits,National,0.6,0.15,1661893.244,1,1,1637.512499,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Paid Search,General Market,Deposits,National,0.3,0.15,255840.54,1,1,528.1182718,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Television,General Market,Brand,National,5,0.3,134.59,34785.33651,1,2186.141408,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Radio,General Market,Brand,National,0.6,0.45,700242.9861,1,1,358.694956,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Online Display,General Market,Brand,National,0.6,0.3,2442528.591,1,1,773.6920996,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Television,Diverse Segment,Brand,National,1,0.45,1164438.693,1,1,713.3773107,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Radio,Diverse Segment,Brand,National,0.3,0.6,228869,1,1,201.0889631,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Newspaper,Diverse Segment,Brand,National,0.6,0.45,3530113,0.087678219,1,151.5766877,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Radio,General Market,Traffic Driving,National,0.6,0.3,2147885.081,1,1,2519.513839,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Online Display,General Market,Traffic Driving,National,0.3,0.15,380301384,0.002042718,1,1702.401699,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Newspaper,Diverse Segment,Remittance,National,0.3,0.3,1717298,0.055943665,1,143.3413388,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Television,General Market,Mortgage,National,2,0.3,65.68934924,28375.57342,1,1971.078348,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Radio,General Market,Mortgage,National,0.6,0.3,560378.429,1,1,889.8814115,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Direct Mail Acq/Prosp,Direct Mail,Deposits,National,2,0.75,16352600,0.56,1,3463.626065,weekly,312,423,582
+Consumer Deposits,Consumer Checking - New Checking Customers,Direct Mail Xsell/Recap,Direct Mail,Deposits,National,2,0.15,2331989,0.56,1,4808.842611,weekly,312,423,582
+Credit Card,Credit Card - Core,Radio,General Market,Traffic Driving,National,0.6,0.3,2147885.081,1,1,3008.293736,weekly,198,474,973
+Credit Card,Credit Card - Core,Newspaper,General Market,Traffic Driving,National,0.3,0.15,770207.3998,1,1,893.3492572,weekly,198,474,973
+Credit Card,Credit Card - Core,Online Display,General Market,Traffic Driving,National,0.6,0.3,380301384,0.002042718,1,1558.227331,weekly,198,474,973
+Credit Card,Credit Card - Core,Newspaper,General Market,Deposits,National,0.3,0.45,739550.5358,1,1,472.4237717,weekly,198,474,973
+Credit Card,Credit Card - Core,Radio,General Market,Brand,National,0.6,0.45,700242.9861,1,1,332.8137734,weekly,198,474,973
+Credit Card,Credit Card - Core,Outdoor,General Market,Brand,National,1,0.15,2157133.73,1,1,799.8604169,weekly,198,474,973
+Credit Card,Credit Card - Core,Direct Mail Xsell/Recap,Direct Mail,Core Credit Card,National,3,0.2,4808930,0.56,1,21074.73528,weekly,198,474,973
+Credit Card,Credit Card - Core,Mortgage Inserts,Direct Mail,Core Credit Card,National,2,0.15,4584443,0.56,1,4826.105153,weekly,198,474,973
+Credit Card,Credit Card - Student,Radio,General Market,Traffic Driving,National,0.6,0.3,2147885.081,1,1,634.5190546,weekly,-1,99,422
+Credit Card,Credit Card - Student,Online Display,General Market,Traffic Driving,National,0.3,0.3,380301384,0.002042718,1,215.180001,weekly,-1,99,422
+Credit Card,Credit Card - Student,Television,General Market,Deposits,National,4,0.45,141.33,29371.62418,1,361.4518761,weekly,-1,99,422
+Credit Card,Credit Card - Student,Outdoor,General Market,Deposits,National,1,0.45,1072149.405,1,1,80.75768151,weekly,-1,99,422
+Credit Card,Credit Card - Student,Online Display,General Market,Deposits,National,0.3,0.15,1661893.244,1,1,411.8952017,weekly,-1,99,422
+Credit Card,Credit Card - Student,Television,General Market,Brand,National,4,0.15,134.59,34785.33651,1,406.9794133,weekly,-1,99,422
+Credit Card,Credit Card - Student,Radio,General Market,Brand,National,0.3,0.15,700242.9861,1,1,132.1764867,weekly,-1,99,422
+Credit Card,Credit Card - Student,Online Display,General Market,Brand,National,0.3,0.15,2442528.591,1,1,267.9686798,weekly,-1,99,422
+Credit Card,Credit Card - Student,Direct Mail Xsell/Recap,Direct Mail,Student Credit Card,National,1,0.45,1011773,0.56,1,3614.238216,weekly,-1,99,422
+Credit Card,Credit Card - Secured,Radio,General Market,Traffic Driving,National,0.6,0.3,2147885.081,1,1,349.4510348,weekly,131,198,320
+Credit Card,Credit Card - Secured,Outdoor,General Market,Traffic Driving,National,0.6,0.45,282302.3664,1,1,61.82107123,weekly,131,198,320
+Credit Card,Credit Card - Secured,Online Display,General Market,Traffic Driving,National,0.6,0.3,380301384,0.002042718,1,143.5026668,weekly,131,198,320
+Credit Card,Credit Card - Secured,Television,General Market,Deposits,National,4,0.15,141.33,29371.62418,1,245.0297142,weekly,131,198,320
+Credit Card,Credit Card - Secured,Radio,General Market,Deposits,National,0.6,0.5,1179011.244,1,1,23.93471091,weekly,131,198,320
+Credit Card,Credit Card - Secured,Outdoor,General Market,Deposits,National,0.6,0.3,1072149.405,1,1,63.67707715,weekly,131,198,320
+Credit Card,Credit Card - Secured,Online Display,General Market,Deposits,National,0.3,0.3,1661893.244,1,1,142.8671892,weekly,131,198,320
+Credit Card,Credit Card - Secured,Television,General Market,Brand,National,2,0.15,134.59,34785.33651,1,214.2628909,weekly,131,198,320
+Credit Card,Credit Card - Secured,Radio,General Market,Brand,National,0.3,0.45,700242.9861,1,1,52.69471241,weekly,131,198,320
+Credit Card,Credit Card - Secured,Online Display,General Market,Brand,National,0.6,0.15,2442528.591,1,1,107.1624038,weekly,131,198,320
+Lines & Loans,Personal Lines & Loans,Television,General Market,Deposits,National,5,0.3,141.33,29371.62418,1,600.7340635,weekly,573,651,728
+Lines & Loans,Personal Lines & Loans,Outdoor,General Market,Deposits,National,2,0.3,1072149.405,1,1,304.427153,weekly,573,651,728
+Lines & Loans,Personal Lines & Loans,Online Display,General Market,Deposits,National,0.01,0.15,1661893.244,1,1,975.2895481,weekly,573,651,728
+Lines & Loans,Personal Lines & Loans,Television,General Market,Brand,National,1,0.15,134.59,34785.33651,1,431.3516515,weekly,573,651,728
+Lines & Loans,Personal Lines & Loans,Online Display,General Market,Brand,National,0.6,0.3,2442528.591,1,1,684.0377948,weekly,573,651,728
+Lines & Loans,Personal Lines & Loans,Radio,General Market,Traffic Driving,National,1,0.45,2147885.081,1,1,2134.039571,weekly,573,651,728
+Lines & Loans,Personal Lines & Loans,Outdoor,General Market,Traffic Driving,National,2,0.3,282302.3664,1,1,415.7911328,weekly,573,651,728
+Lines & Loans,Personal Lines & Loans,Online Display,General Market,Traffic Driving,National,0.6,0.15,380301384,0.002042718,1,795.4936105,weekly,573,651,728
+Lines & Loans,Personal Lines & Loans,Direct Mail Xsell/Recap,Direct Mail,Lines & Loans,National,2,0.45,4456030,0.56,1,5805.805439,weekly,573,651,728
+Home Equity,Home Equity,Radio,General Market,Mortgage,National,0.3,0.3,560378.429,1,1,104.728142,weekly,-69,736,1474
+Home Equity,Home Equity,Radio,General Market,Brand,National,0.3,0.3,700242.9861,1,1,66.07596375,weekly,-69,736,1474
+Home Equity,Home Equity,Television,General Market,Traffic Driving,National,2,0.15,2.007319108,25844.70328,1,35.12475236,weekly,-69,736,1474
+Home Equity,Home Equity,Radio,General Market,Traffic Driving,National,0.6,0.3,2147885.081,1,1,120.8288716,weekly,-69,736,1474
+Home Equity,Home Equity,Newspaper,General Market,Traffic Driving,National,0.3,0.15,770207.3998,1,1,56.92914934,weekly,-69,736,1474
+Home Equity,Home Equity,Online Display,General Market,Traffic Driving,National,0.01,0.3,380301384,0.002042718,1,119.4155226,weekly,-69,736,1474
+Home Equity,Home Equity,Direct Mail Xsell/Recap,Direct Mail,Home Equity,National,3,0.3,1448644,0.56,1,1060.189373,weekly,-69,736,1474
+Business,Business Checking - New Checking Customers,Television,General Market,Small Business,National,4,0.15,98.54403215,28701.67614,1,758.7263084,weekly,867,1162,1683
+Business,Business Checking - New Checking Customers,Radio,General Market,Small Business,National,1,0.3,540156.9207,1,1,178.4331055,weekly,867,1162,1683
+Business,Business Checking - New Checking Customers,Newspaper,General Market,Small Business,National,0.6,0.3,940787.0916,1,1,185.2031896,weekly,867,1162,1683
+Business,Business Checking - New Checking Customers,Magazine,General Market,Small Business,National,1,0.3,533106.9741,1,1,86.06215938,weekly,867,1162,1683
+Business,Business Checking - New Checking Customers,Outdoor,General Market,Small Business,National,0.6,0.3,415969.8772,1,1,121.7684669,weekly,867,1162,1683
+Business,Business Checking - New Checking Customers,Online Display,General Market,Small Business,National,1,0.45,307909594,0.004520098,1,325.0793007,weekly,867,1162,1683
+Business,Business Checking - New Checking Customers,Television,General Market,Brand,National,4,0.3,134.59,34785.33651,1,298.4609089,weekly,867,1162,1683
+Business,Business Checking - New Checking Customers,Online Display,General Market,Brand,National,0.3,0.15,2442528.591,1,1,452.9270811,weekly,867,1162,1683
+Business,Business Checking - New Checking Customers,Television,General Market,Deposits,National,3,0.15,141.33,29371.62418,1,315.3531315,weekly,867,1162,1683
+Business,Business Checking - New Checking Customers,Newspaper,General Market,Traffic Driving,National,0.6,0.3,770207.3998,1,1,102.4815894,weekly,867,1162,1683
+Business,Business Checking - New Checking Customers,Magazine,General Market,Traffic Driving,National,1,0.3,337552.2133,1,1,159.278938,weekly,867,1162,1683
+Business,Business Checking - New Checking Customers,Direct Mail Acq/Prosp,Direct Mail,SMB Deposits,National,1,0.6,927151,0.56,1,122.6894398,weekly,867,1162,1683
+Business,Business Checking - New Checking Customers,Direct Mail Xsell/Recap,Direct Mail,SMB Deposits,National,1,0.15,147817,0.56,1,399.1990776,weekly,867,1162,1683
+Business,Business Direct - Store Channel,Television,General Market,Small Business,National,4,0.15,98.54403215,28701.67614,1,221.561669,weekly,379,517,868
+Business,Business Direct - Store Channel,Magazine,General Market,Small Business,National,0.6,0.15,533106.9741,1,1,66.52398441,weekly,379,517,868
+Business,Business Direct - Store Channel,Outdoor,General Market,Small Business,National,1,0.15,415969.8772,1,1,63.04522712,weekly,379,517,868
+Business,Business Direct - Store Channel,Radio,General Market,Brand,National,0.6,0.15,700242.9861,1,1,48.02050046,weekly,379,517,868
+Business,Business Direct - Store Channel,Newspaper,General Market,Brand,National,0.6,0.3,620940.7983,1,1,49.29081359,weekly,379,517,868
+Business,Business Direct - Store Channel,Newspaper,General Market,Traffic Driving,National,0.6,0.15,770207.3998,1,1,53.97456862,weekly,379,517,868
+Business,Business Direct - Store Channel,Online Display,General Market,Traffic Driving,National,0.6,0.3,380301384,0.002042718,1,84.94584463,weekly,379,517,868
+Business,Business Direct - Direct Channel,Radio,General Market,Brand,National,0.6,0.3,700242.9861,1,1,81.74017706,weekly,661,902,1516
+Business,Business Direct - Direct Channel,Newspaper,General Market,Traffic Driving,National,0.3,0.45,770207.3998,1,1,143.8004373,weekly,661,902,1516
+Business,Business Direct - Direct Channel,Online Display,General Market,Traffic Driving,National,0.3,0.45,380301384,0.002042718,1,53.29182757,weekly,661,902,1516
+Business,Business Direct - Direct Channel,Direct Mail Acq/Prosp,Direct Mail,Business Direct Lines,National,3,0.45,2664700,0.56,1,1531.334569,weekly,661,902,1516
+Business,Business Direct - Direct Channel,Direct Mail Xsell/Recap,Direct Mail,Business Direct Lines,National,3,0.45,705299,0.56,1,252.9260452,weekly,661,902,1516
+Business,Business Direct - Direct Channel,Direct Mail Xsell/Recap,Direct Mail,Business Direct Credit,National,1,0.45,751728,0.56,1,206.6959689,weekly,661,902,1516
+WIM,WIM - Non-retirement,Television,General Market,WBR Brokerage,National,2,0.2,102.66496,34679.69265,1,549.1426359,weekly,635,844,844
+WIM,WIM - Non-retirement,Newspaper,General Market,WBR Brokerage,National,0.6,0.3,1108767.736,1,1,174.8356536,weekly,635,844,844
+WIM,WIM - Non-retirement,Online Display,General Market,WBR Brokerage,National,0.6,0.15,95839740,0.001546646,1,153.8528807,weekly,635,844,844
+WIM,WIM - Non-retirement,Paid Search,General Market,WBR Brokerage,National,0.01,0.15,33931,1.90462946,1,250.4185388,weekly,635,844,844
+WIM,WIM - Non-retirement,Magazine,General Market,WBR Retirement,National,0.6,0.3,689443.1069,1,1,117.4500511,weekly,635,844,844
+WIM,WIM - Non-retirement,Paid Search,General Market,WBR Retirement,National,0.01,0.3,15088,2.086705959,1,77.37171069,weekly,635,844,844
+WIM,WIM - Non-retirement,Radio,General Market,Brand,National,0.6,0.3,700242.9861,1,1,46.62222756,weekly,635,844,844
+WIM,WIM - Non-retirement,Online Display,General Market,Brand,National,0.6,0.45,2442528.591,1,1,72.93796149,weekly,635,844,844
+WIM,WIM - Non-retirement,Direct Mail Acq/Prosp,Direct Mail,WBR,National,2,0.3,2214090,0.56,1,813.1680889,weekly,635,844,844
+WIM,WIM - Retirement,Television,General Market,WBR Brokerage,National,2,0.3,102.66496,34679.69265,1,289.9185468,weekly,165,209,209
+WIM,WIM - Retirement,Magazine,General Market,WBR Brokerage,National,1,0.3,500902.0432,1,1,131.761416,weekly,165,209,209
+WIM,WIM - Retirement,Online Display,General Market,WBR Brokerage,National,0.6,0.45,95839740,0.001546646,1,36.2158769,weekly,165,209,209
+WIM,WIM - Retirement,Paid Search,General Market,WBR Brokerage,National,0.01,0.45,33931,1.90462946,1,122.6869121,weekly,165,209,209
+WIM,WIM - Retirement,Television,General Market,WBR Retirement,National,2,0.15,135.36,27596.55714,1,274.7477206,weekly,165,209,209
+WIM,WIM - Retirement,Magazine,General Market,WBR Retirement,National,1,0.45,689443.1069,1,1,287.0741884,weekly,165,209,209
+WIM,WIM - Retirement,Online Display,General Market,WBR Retirement,National,0.6,0.45,90653912,0.001785883,1,48.27916735,weekly,165,209,209
+WIM,WIM - Retirement,Paid Search,General Market,WBR Retirement,National,0.01,0.45,15088,2.086705959,1,81.81059355,weekly,165,209,209
+WIM,WIM - Retirement,Television,General Market,Brand,National,2,0.15,134.59,34785.33651,1,100.6333673,weekly,165,209,209
+WIM,WIM - Retirement,Online Display,General Market,Brand,National,0.6,0.3,2442528.591,1,1,74.46105422,weekly,165,209,209
+WIM,WIM - Retirement,Direct Mail Acq/Prosp,Direct Mail,WBR,National,4,0.3,2214090,0.56,1,389.3887218,weekly,165,209,209
+Mortgage,Purchase Mortgage - New WF Customers,Radio,General Market,Mortgage,National,1,0.25,560378.429,1,1,96.83913847,weekly,1577,2042,2042
+Mortgage,Purchase Mortgage - New WF Customers,Online Display,General Market,Mortgage,National,0.3,0.12,220164693,0.000777689,1,67.81517987,weekly,1577,2042,2042
+Mortgage,Purchase Mortgage - New WF Customers,Paid Search,General Market,Mortgage,National,0.01,0.15,93239,1.863513196,1,100.6080089,weekly,1577,2042,2042
+Mortgage,Purchase Mortgage - New WF Customers,Radio,General Market,Brand,National,1,0.15,700242.9861,1,1,49.84767042,weekly,1577,2042,2042
+Mortgage,Purchase Mortgage - New WF Customers,Radio,General Market,Deposits,National,1,0.5,1179011.244,1,1,12.46108532,weekly,1577,2042,2042
+Mortgage,Purchase Mortgage - New WF Customers,Direct Mail Acq/Prosp,Direct Mail,Purchase Mortgage,National,2,0.45,805817,0.56,1,160.4867863,weekly,1577,2042,2042
+Mortgage,Purchase Mortgage - Existing WF Customers,Radio,General Market,Mortgage,National,1,0.25,560378.429,1,1,52.30543302,weekly,1597,2067,2067
+Mortgage,Purchase Mortgage - Existing WF Customers,Online Display,General Market,Mortgage,National,0.3,0.12,220164693,0.000777689,1,63.57342978,weekly,1597,2067,2067
+Mortgage,Purchase Mortgage - Existing WF Customers,Paid Search,General Market,Mortgage,National,0.01,0.15,93239,1.863513196,1,78.53958068,weekly,1597,2067,2067
+Mortgage,Purchase Mortgage - Existing WF Customers,Radio,Diverse Segment,Mortgage,National,1,0.15,246149.424,1,1,41.69616178,weekly,1597,2067,2067
+Mortgage,Purchase Mortgage - Existing WF Customers,Radio,General Market,Brand,National,1,0.15,700242.9861,1,1,66.82470972,weekly,1597,2067,2067
+Mortgage,Purchase Mortgage - Existing WF Customers,Newspaper,General Market,Brand,National,0.6,0.3,620940.7983,1,1,14.20779544,weekly,1597,2067,2067
+Mortgage,Purchase Mortgage - Existing WF Customers,Radio,General Market,Deposits,National,1,0.5,1179011.244,1,1,19.81158901,weekly,1597,2067,2067
+Mortgage,Purchase Mortgage - Existing WF Customers,Online Display,General Market,Deposits,National,0.3,0.6,1661893.244,1,1,33.10879475,weekly,1597,2067,2067
+Mortgage,Refi Mortgage - New WF Customers,Radio,General Market,Mortgage,National,0.6,0.25,560378.429,1,1,150.6677601,weekly,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Online Display,General Market,Mortgage,National,0.01,0.12,220164693,0.000777689,1,114.8923942,weekly,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Paid Search,General Market,Mortgage,National,0.01,0.2,93239,1.863513196,1,240.2525829,weekly,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Radio,General Market,Brand,National,0.6,0.3,700242.9861,1,1,95.7290953,weekly,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Newspaper,General Market,Brand,National,1,0.3,620940.7983,1,1,51.16161288,weekly,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Newspaper,Diverse Segment,Brand,National,0.6,0.3,3530113,0.087678219,1,9.385036606,weekly,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Outdoor,General Market,Deposits,National,0.3,0.3,1072149.405,1,1,42.1728922,weekly,1007,1305,1305
+Mortgage,Refi Mortgage - New WF Customers,Direct Mail Acq/Prosp,Direct Mail,Refi Mortgage,National,2,0.45,480484,0.56,1,173.7370231,weekly,1007,1305,1305
+Mortgage,Refi Mortgage - Existing WF Customers,Television,General Market,Mortgage,National,2,0.3,65.68934924,28375.57342,1,847.1151857,weekly,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Online Display,General Market,Mortgage,National,0.01,0.12,220164693,0.000777689,1,146.4548044,weekly,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Paid Search,General Market,Mortgage,National,0.01,0.2,93239,1.863513196,1,235.1271955,weekly,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Television,General Market,Brand,National,1,0.15,134.59,34785.33651,1,102.2277021,weekly,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Newspaper,General Market,Brand,National,0.3,0.3,620940.7983,1,1,75.38988412,weekly,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Newspaper,Diverse Segment,Brand,National,0.3,0.3,3530113,0.087678219,1,73.07267699,weekly,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Radio,General Market,Deposits,National,0.6,0.5,1179011.244,1,1,222.5010133,weekly,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Outdoor,General Market,Deposits,National,2,0.3,1072149.405,1,1,151.2760781,weekly,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Direct Mail Acq/Prosp,Direct Mail,Refi Mortgage,National,2,0.45,480484,0.56,1,365.6826263,weekly,1448,1875,1875
+Mortgage,Refi Mortgage - Existing WF Customers,Direct Mail Xsell/Recap,Direct Mail,Refi Mortgage,National,3,0.3,444408,0.56,1,458.9107317,weekly,1448,1875,1875

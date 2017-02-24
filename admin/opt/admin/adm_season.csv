@@ -1,0 +1,781 @@
+week_id,sales1_name,sales2_name,factor
+1,Consumer Deposits,Consumer Checking - New Checking Customers,1
+2,Consumer Deposits,Consumer Checking - New Checking Customers,1
+3,Consumer Deposits,Consumer Checking - New Checking Customers,1
+4,Consumer Deposits,Consumer Checking - New Checking Customers,1
+5,Consumer Deposits,Consumer Checking - New Checking Customers,1
+6,Consumer Deposits,Consumer Checking - New Checking Customers,1
+7,Consumer Deposits,Consumer Checking - New Checking Customers,1
+8,Consumer Deposits,Consumer Checking - New Checking Customers,1
+9,Consumer Deposits,Consumer Checking - New Checking Customers,1
+10,Consumer Deposits,Consumer Checking - New Checking Customers,1
+11,Consumer Deposits,Consumer Checking - New Checking Customers,1
+12,Consumer Deposits,Consumer Checking - New Checking Customers,1
+13,Consumer Deposits,Consumer Checking - New Checking Customers,1
+14,Consumer Deposits,Consumer Checking - New Checking Customers,1
+15,Consumer Deposits,Consumer Checking - New Checking Customers,1
+16,Consumer Deposits,Consumer Checking - New Checking Customers,1
+17,Consumer Deposits,Consumer Checking - New Checking Customers,1
+18,Consumer Deposits,Consumer Checking - New Checking Customers,1
+19,Consumer Deposits,Consumer Checking - New Checking Customers,1
+20,Consumer Deposits,Consumer Checking - New Checking Customers,1
+21,Consumer Deposits,Consumer Checking - New Checking Customers,1
+22,Consumer Deposits,Consumer Checking - New Checking Customers,1
+23,Consumer Deposits,Consumer Checking - New Checking Customers,1
+24,Consumer Deposits,Consumer Checking - New Checking Customers,1
+25,Consumer Deposits,Consumer Checking - New Checking Customers,1
+26,Consumer Deposits,Consumer Checking - New Checking Customers,1
+27,Consumer Deposits,Consumer Checking - New Checking Customers,1
+28,Consumer Deposits,Consumer Checking - New Checking Customers,1
+29,Consumer Deposits,Consumer Checking - New Checking Customers,1
+30,Consumer Deposits,Consumer Checking - New Checking Customers,1
+31,Consumer Deposits,Consumer Checking - New Checking Customers,1
+32,Consumer Deposits,Consumer Checking - New Checking Customers,1
+33,Consumer Deposits,Consumer Checking - New Checking Customers,1
+34,Consumer Deposits,Consumer Checking - New Checking Customers,1
+35,Consumer Deposits,Consumer Checking - New Checking Customers,1
+36,Consumer Deposits,Consumer Checking - New Checking Customers,1
+37,Consumer Deposits,Consumer Checking - New Checking Customers,1
+38,Consumer Deposits,Consumer Checking - New Checking Customers,1
+39,Consumer Deposits,Consumer Checking - New Checking Customers,1
+40,Consumer Deposits,Consumer Checking - New Checking Customers,1
+41,Consumer Deposits,Consumer Checking - New Checking Customers,1
+42,Consumer Deposits,Consumer Checking - New Checking Customers,1
+43,Consumer Deposits,Consumer Checking - New Checking Customers,1
+44,Consumer Deposits,Consumer Checking - New Checking Customers,1
+45,Consumer Deposits,Consumer Checking - New Checking Customers,1
+46,Consumer Deposits,Consumer Checking - New Checking Customers,1
+47,Consumer Deposits,Consumer Checking - New Checking Customers,1
+48,Consumer Deposits,Consumer Checking - New Checking Customers,1
+49,Consumer Deposits,Consumer Checking - New Checking Customers,1
+50,Consumer Deposits,Consumer Checking - New Checking Customers,1
+51,Consumer Deposits,Consumer Checking - New Checking Customers,1
+52,Consumer Deposits,Consumer Checking - New Checking Customers,1
+1,Credit Card,Credit Card - Student,1
+2,Credit Card,Credit Card - Student,1
+3,Credit Card,Credit Card - Student,1
+4,Credit Card,Credit Card - Student,1
+5,Credit Card,Credit Card - Student,1
+6,Credit Card,Credit Card - Student,1
+7,Credit Card,Credit Card - Student,1
+8,Credit Card,Credit Card - Student,1
+9,Credit Card,Credit Card - Student,1
+10,Credit Card,Credit Card - Student,1
+11,Credit Card,Credit Card - Student,1
+12,Credit Card,Credit Card - Student,1
+13,Credit Card,Credit Card - Student,1
+14,Credit Card,Credit Card - Student,1
+15,Credit Card,Credit Card - Student,1
+16,Credit Card,Credit Card - Student,1
+17,Credit Card,Credit Card - Student,1
+18,Credit Card,Credit Card - Student,1
+19,Credit Card,Credit Card - Student,1
+20,Credit Card,Credit Card - Student,1
+21,Credit Card,Credit Card - Student,1
+22,Credit Card,Credit Card - Student,1
+23,Credit Card,Credit Card - Student,1
+24,Credit Card,Credit Card - Student,1
+25,Credit Card,Credit Card - Student,1
+26,Credit Card,Credit Card - Student,1
+27,Credit Card,Credit Card - Student,1
+28,Credit Card,Credit Card - Student,1
+29,Credit Card,Credit Card - Student,1
+30,Credit Card,Credit Card - Student,1
+31,Credit Card,Credit Card - Student,1
+32,Credit Card,Credit Card - Student,1
+33,Credit Card,Credit Card - Student,1
+34,Credit Card,Credit Card - Student,1
+35,Credit Card,Credit Card - Student,1
+36,Credit Card,Credit Card - Student,1
+37,Credit Card,Credit Card - Student,1
+38,Credit Card,Credit Card - Student,1
+39,Credit Card,Credit Card - Student,1
+40,Credit Card,Credit Card - Student,1
+41,Credit Card,Credit Card - Student,1
+42,Credit Card,Credit Card - Student,1
+43,Credit Card,Credit Card - Student,1
+44,Credit Card,Credit Card - Student,1
+45,Credit Card,Credit Card - Student,1
+46,Credit Card,Credit Card - Student,1
+47,Credit Card,Credit Card - Student,1
+48,Credit Card,Credit Card - Student,1
+49,Credit Card,Credit Card - Student,1
+50,Credit Card,Credit Card - Student,1
+51,Credit Card,Credit Card - Student,1
+52,Credit Card,Credit Card - Student,1
+1,Credit Card,Credit Card - Secured,1
+2,Credit Card,Credit Card - Secured,1
+3,Credit Card,Credit Card - Secured,1
+4,Credit Card,Credit Card - Secured,1
+5,Credit Card,Credit Card - Secured,1
+6,Credit Card,Credit Card - Secured,1
+7,Credit Card,Credit Card - Secured,1
+8,Credit Card,Credit Card - Secured,1
+9,Credit Card,Credit Card - Secured,1
+10,Credit Card,Credit Card - Secured,1
+11,Credit Card,Credit Card - Secured,1
+12,Credit Card,Credit Card - Secured,1
+13,Credit Card,Credit Card - Secured,1
+14,Credit Card,Credit Card - Secured,1
+15,Credit Card,Credit Card - Secured,1
+16,Credit Card,Credit Card - Secured,1
+17,Credit Card,Credit Card - Secured,1
+18,Credit Card,Credit Card - Secured,1
+19,Credit Card,Credit Card - Secured,1
+20,Credit Card,Credit Card - Secured,1
+21,Credit Card,Credit Card - Secured,1
+22,Credit Card,Credit Card - Secured,1
+23,Credit Card,Credit Card - Secured,1
+24,Credit Card,Credit Card - Secured,1
+25,Credit Card,Credit Card - Secured,1
+26,Credit Card,Credit Card - Secured,1
+27,Credit Card,Credit Card - Secured,1
+28,Credit Card,Credit Card - Secured,1
+29,Credit Card,Credit Card - Secured,1
+30,Credit Card,Credit Card - Secured,1
+31,Credit Card,Credit Card - Secured,1
+32,Credit Card,Credit Card - Secured,1
+33,Credit Card,Credit Card - Secured,1
+34,Credit Card,Credit Card - Secured,1
+35,Credit Card,Credit Card - Secured,1
+36,Credit Card,Credit Card - Secured,1
+37,Credit Card,Credit Card - Secured,1
+38,Credit Card,Credit Card - Secured,1
+39,Credit Card,Credit Card - Secured,1
+40,Credit Card,Credit Card - Secured,1
+41,Credit Card,Credit Card - Secured,1
+42,Credit Card,Credit Card - Secured,1
+43,Credit Card,Credit Card - Secured,1
+44,Credit Card,Credit Card - Secured,1
+45,Credit Card,Credit Card - Secured,1
+46,Credit Card,Credit Card - Secured,1
+47,Credit Card,Credit Card - Secured,1
+48,Credit Card,Credit Card - Secured,1
+49,Credit Card,Credit Card - Secured,1
+50,Credit Card,Credit Card - Secured,1
+51,Credit Card,Credit Card - Secured,1
+52,Credit Card,Credit Card - Secured,1
+1,Lines & Loans,Personal Lines & Loans,1
+2,Lines & Loans,Personal Lines & Loans,1
+3,Lines & Loans,Personal Lines & Loans,1
+4,Lines & Loans,Personal Lines & Loans,1
+5,Lines & Loans,Personal Lines & Loans,1
+6,Lines & Loans,Personal Lines & Loans,1
+7,Lines & Loans,Personal Lines & Loans,1
+8,Lines & Loans,Personal Lines & Loans,1
+9,Lines & Loans,Personal Lines & Loans,1
+10,Lines & Loans,Personal Lines & Loans,1
+11,Lines & Loans,Personal Lines & Loans,1
+12,Lines & Loans,Personal Lines & Loans,1
+13,Lines & Loans,Personal Lines & Loans,1
+14,Lines & Loans,Personal Lines & Loans,1
+15,Lines & Loans,Personal Lines & Loans,1
+16,Lines & Loans,Personal Lines & Loans,1
+17,Lines & Loans,Personal Lines & Loans,1
+18,Lines & Loans,Personal Lines & Loans,1
+19,Lines & Loans,Personal Lines & Loans,1
+20,Lines & Loans,Personal Lines & Loans,1
+21,Lines & Loans,Personal Lines & Loans,1
+22,Lines & Loans,Personal Lines & Loans,1
+23,Lines & Loans,Personal Lines & Loans,1
+24,Lines & Loans,Personal Lines & Loans,1
+25,Lines & Loans,Personal Lines & Loans,1
+26,Lines & Loans,Personal Lines & Loans,1
+27,Lines & Loans,Personal Lines & Loans,1
+28,Lines & Loans,Personal Lines & Loans,1
+29,Lines & Loans,Personal Lines & Loans,1
+30,Lines & Loans,Personal Lines & Loans,1
+31,Lines & Loans,Personal Lines & Loans,1
+32,Lines & Loans,Personal Lines & Loans,1
+33,Lines & Loans,Personal Lines & Loans,1
+34,Lines & Loans,Personal Lines & Loans,1
+35,Lines & Loans,Personal Lines & Loans,1
+36,Lines & Loans,Personal Lines & Loans,1
+37,Lines & Loans,Personal Lines & Loans,1
+38,Lines & Loans,Personal Lines & Loans,1
+39,Lines & Loans,Personal Lines & Loans,1
+40,Lines & Loans,Personal Lines & Loans,1
+41,Lines & Loans,Personal Lines & Loans,1
+42,Lines & Loans,Personal Lines & Loans,1
+43,Lines & Loans,Personal Lines & Loans,1
+44,Lines & Loans,Personal Lines & Loans,1
+45,Lines & Loans,Personal Lines & Loans,1
+46,Lines & Loans,Personal Lines & Loans,1
+47,Lines & Loans,Personal Lines & Loans,1
+48,Lines & Loans,Personal Lines & Loans,1
+49,Lines & Loans,Personal Lines & Loans,1
+50,Lines & Loans,Personal Lines & Loans,1
+51,Lines & Loans,Personal Lines & Loans,1
+52,Lines & Loans,Personal Lines & Loans,1
+1,Home Equity,Home Equity,1
+2,Home Equity,Home Equity,1
+3,Home Equity,Home Equity,1
+4,Home Equity,Home Equity,1
+5,Home Equity,Home Equity,1
+6,Home Equity,Home Equity,1
+7,Home Equity,Home Equity,1
+8,Home Equity,Home Equity,1
+9,Home Equity,Home Equity,1
+10,Home Equity,Home Equity,1
+11,Home Equity,Home Equity,1
+12,Home Equity,Home Equity,1
+13,Home Equity,Home Equity,1
+14,Home Equity,Home Equity,1
+15,Home Equity,Home Equity,1
+16,Home Equity,Home Equity,1
+17,Home Equity,Home Equity,1
+18,Home Equity,Home Equity,1
+19,Home Equity,Home Equity,1
+20,Home Equity,Home Equity,1
+21,Home Equity,Home Equity,1
+22,Home Equity,Home Equity,1
+23,Home Equity,Home Equity,1
+24,Home Equity,Home Equity,1
+25,Home Equity,Home Equity,1
+26,Home Equity,Home Equity,1
+27,Home Equity,Home Equity,1
+28,Home Equity,Home Equity,1
+29,Home Equity,Home Equity,1
+30,Home Equity,Home Equity,1
+31,Home Equity,Home Equity,1
+32,Home Equity,Home Equity,1
+33,Home Equity,Home Equity,1
+34,Home Equity,Home Equity,1
+35,Home Equity,Home Equity,1
+36,Home Equity,Home Equity,1
+37,Home Equity,Home Equity,1
+38,Home Equity,Home Equity,1
+39,Home Equity,Home Equity,1
+40,Home Equity,Home Equity,1
+41,Home Equity,Home Equity,1
+42,Home Equity,Home Equity,1
+43,Home Equity,Home Equity,1
+44,Home Equity,Home Equity,1
+45,Home Equity,Home Equity,1
+46,Home Equity,Home Equity,1
+47,Home Equity,Home Equity,1
+48,Home Equity,Home Equity,1
+49,Home Equity,Home Equity,1
+50,Home Equity,Home Equity,1
+51,Home Equity,Home Equity,1
+52,Home Equity,Home Equity,1
+1,Business,Business Checking - New Checking Customers,1
+2,Business,Business Checking - New Checking Customers,1
+3,Business,Business Checking - New Checking Customers,1
+4,Business,Business Checking - New Checking Customers,1
+5,Business,Business Checking - New Checking Customers,1
+6,Business,Business Checking - New Checking Customers,1
+7,Business,Business Checking - New Checking Customers,1
+8,Business,Business Checking - New Checking Customers,1
+9,Business,Business Checking - New Checking Customers,1
+10,Business,Business Checking - New Checking Customers,1
+11,Business,Business Checking - New Checking Customers,1
+12,Business,Business Checking - New Checking Customers,1
+13,Business,Business Checking - New Checking Customers,1
+14,Business,Business Checking - New Checking Customers,1
+15,Business,Business Checking - New Checking Customers,1
+16,Business,Business Checking - New Checking Customers,1
+17,Business,Business Checking - New Checking Customers,1
+18,Business,Business Checking - New Checking Customers,1
+19,Business,Business Checking - New Checking Customers,1
+20,Business,Business Checking - New Checking Customers,1
+21,Business,Business Checking - New Checking Customers,1
+22,Business,Business Checking - New Checking Customers,1
+23,Business,Business Checking - New Checking Customers,1
+24,Business,Business Checking - New Checking Customers,1
+25,Business,Business Checking - New Checking Customers,1
+26,Business,Business Checking - New Checking Customers,1
+27,Business,Business Checking - New Checking Customers,1
+28,Business,Business Checking - New Checking Customers,1
+29,Business,Business Checking - New Checking Customers,1
+30,Business,Business Checking - New Checking Customers,1
+31,Business,Business Checking - New Checking Customers,1
+32,Business,Business Checking - New Checking Customers,1
+33,Business,Business Checking - New Checking Customers,1
+34,Business,Business Checking - New Checking Customers,1
+35,Business,Business Checking - New Checking Customers,1
+36,Business,Business Checking - New Checking Customers,1
+37,Business,Business Checking - New Checking Customers,1
+38,Business,Business Checking - New Checking Customers,1
+39,Business,Business Checking - New Checking Customers,1
+40,Business,Business Checking - New Checking Customers,1
+41,Business,Business Checking - New Checking Customers,1
+42,Business,Business Checking - New Checking Customers,1
+43,Business,Business Checking - New Checking Customers,1
+44,Business,Business Checking - New Checking Customers,1
+45,Business,Business Checking - New Checking Customers,1
+46,Business,Business Checking - New Checking Customers,1
+47,Business,Business Checking - New Checking Customers,1
+48,Business,Business Checking - New Checking Customers,1
+49,Business,Business Checking - New Checking Customers,1
+50,Business,Business Checking - New Checking Customers,1
+51,Business,Business Checking - New Checking Customers,1
+52,Business,Business Checking - New Checking Customers,1
+1,Business,Business Direct - Store Channel,1
+2,Business,Business Direct - Store Channel,1
+3,Business,Business Direct - Store Channel,1
+4,Business,Business Direct - Store Channel,1
+5,Business,Business Direct - Store Channel,1
+6,Business,Business Direct - Store Channel,1
+7,Business,Business Direct - Store Channel,1
+8,Business,Business Direct - Store Channel,1
+9,Business,Business Direct - Store Channel,1
+10,Business,Business Direct - Store Channel,1
+11,Business,Business Direct - Store Channel,1
+12,Business,Business Direct - Store Channel,1
+13,Business,Business Direct - Store Channel,1
+14,Business,Business Direct - Store Channel,1
+15,Business,Business Direct - Store Channel,1
+16,Business,Business Direct - Store Channel,1
+17,Business,Business Direct - Store Channel,1
+18,Business,Business Direct - Store Channel,1
+19,Business,Business Direct - Store Channel,1
+20,Business,Business Direct - Store Channel,1
+21,Business,Business Direct - Store Channel,1
+22,Business,Business Direct - Store Channel,1
+23,Business,Business Direct - Store Channel,1
+24,Business,Business Direct - Store Channel,1
+25,Business,Business Direct - Store Channel,1
+26,Business,Business Direct - Store Channel,1
+27,Business,Business Direct - Store Channel,1
+28,Business,Business Direct - Store Channel,1
+29,Business,Business Direct - Store Channel,1
+30,Business,Business Direct - Store Channel,1
+31,Business,Business Direct - Store Channel,1
+32,Business,Business Direct - Store Channel,1
+33,Business,Business Direct - Store Channel,1
+34,Business,Business Direct - Store Channel,1
+35,Business,Business Direct - Store Channel,1
+36,Business,Business Direct - Store Channel,1
+37,Business,Business Direct - Store Channel,1
+38,Business,Business Direct - Store Channel,1
+39,Business,Business Direct - Store Channel,1
+40,Business,Business Direct - Store Channel,1
+41,Business,Business Direct - Store Channel,1
+42,Business,Business Direct - Store Channel,1
+43,Business,Business Direct - Store Channel,1
+44,Business,Business Direct - Store Channel,1
+45,Business,Business Direct - Store Channel,1
+46,Business,Business Direct - Store Channel,1
+47,Business,Business Direct - Store Channel,1
+48,Business,Business Direct - Store Channel,1
+49,Business,Business Direct - Store Channel,1
+50,Business,Business Direct - Store Channel,1
+51,Business,Business Direct - Store Channel,1
+52,Business,Business Direct - Store Channel,1
+1,Business,Business Direct - Direct Channel,1
+2,Business,Business Direct - Direct Channel,1
+3,Business,Business Direct - Direct Channel,1
+4,Business,Business Direct - Direct Channel,1
+5,Business,Business Direct - Direct Channel,1
+6,Business,Business Direct - Direct Channel,1
+7,Business,Business Direct - Direct Channel,1
+8,Business,Business Direct - Direct Channel,1
+9,Business,Business Direct - Direct Channel,1
+10,Business,Business Direct - Direct Channel,1
+11,Business,Business Direct - Direct Channel,1
+12,Business,Business Direct - Direct Channel,1
+13,Business,Business Direct - Direct Channel,1
+14,Business,Business Direct - Direct Channel,1
+15,Business,Business Direct - Direct Channel,1
+16,Business,Business Direct - Direct Channel,1
+17,Business,Business Direct - Direct Channel,1
+18,Business,Business Direct - Direct Channel,1
+19,Business,Business Direct - Direct Channel,1
+20,Business,Business Direct - Direct Channel,1
+21,Business,Business Direct - Direct Channel,1
+22,Business,Business Direct - Direct Channel,1
+23,Business,Business Direct - Direct Channel,1
+24,Business,Business Direct - Direct Channel,1
+25,Business,Business Direct - Direct Channel,1
+26,Business,Business Direct - Direct Channel,1
+27,Business,Business Direct - Direct Channel,1
+28,Business,Business Direct - Direct Channel,1
+29,Business,Business Direct - Direct Channel,1
+30,Business,Business Direct - Direct Channel,1
+31,Business,Business Direct - Direct Channel,1
+32,Business,Business Direct - Direct Channel,1
+33,Business,Business Direct - Direct Channel,1
+34,Business,Business Direct - Direct Channel,1
+35,Business,Business Direct - Direct Channel,1
+36,Business,Business Direct - Direct Channel,1
+37,Business,Business Direct - Direct Channel,1
+38,Business,Business Direct - Direct Channel,1
+39,Business,Business Direct - Direct Channel,1
+40,Business,Business Direct - Direct Channel,1
+41,Business,Business Direct - Direct Channel,1
+42,Business,Business Direct - Direct Channel,1
+43,Business,Business Direct - Direct Channel,1
+44,Business,Business Direct - Direct Channel,1
+45,Business,Business Direct - Direct Channel,1
+46,Business,Business Direct - Direct Channel,1
+47,Business,Business Direct - Direct Channel,1
+48,Business,Business Direct - Direct Channel,1
+49,Business,Business Direct - Direct Channel,1
+50,Business,Business Direct - Direct Channel,1
+51,Business,Business Direct - Direct Channel,1
+52,Business,Business Direct - Direct Channel,1
+1,WIM,WIM - Non-retirement,1
+2,WIM,WIM - Non-retirement,1
+3,WIM,WIM - Non-retirement,1
+4,WIM,WIM - Non-retirement,1
+5,WIM,WIM - Non-retirement,1
+6,WIM,WIM - Non-retirement,1
+7,WIM,WIM - Non-retirement,1
+8,WIM,WIM - Non-retirement,1
+9,WIM,WIM - Non-retirement,1
+10,WIM,WIM - Non-retirement,1
+11,WIM,WIM - Non-retirement,1
+12,WIM,WIM - Non-retirement,1
+13,WIM,WIM - Non-retirement,1
+14,WIM,WIM - Non-retirement,1
+15,WIM,WIM - Non-retirement,1
+16,WIM,WIM - Non-retirement,1
+17,WIM,WIM - Non-retirement,1
+18,WIM,WIM - Non-retirement,1
+19,WIM,WIM - Non-retirement,1
+20,WIM,WIM - Non-retirement,1
+21,WIM,WIM - Non-retirement,1
+22,WIM,WIM - Non-retirement,1
+23,WIM,WIM - Non-retirement,1
+24,WIM,WIM - Non-retirement,1
+25,WIM,WIM - Non-retirement,1
+26,WIM,WIM - Non-retirement,1
+27,WIM,WIM - Non-retirement,1
+28,WIM,WIM - Non-retirement,1
+29,WIM,WIM - Non-retirement,1
+30,WIM,WIM - Non-retirement,1
+31,WIM,WIM - Non-retirement,1
+32,WIM,WIM - Non-retirement,1
+33,WIM,WIM - Non-retirement,1
+34,WIM,WIM - Non-retirement,1
+35,WIM,WIM - Non-retirement,1
+36,WIM,WIM - Non-retirement,1
+37,WIM,WIM - Non-retirement,1
+38,WIM,WIM - Non-retirement,1
+39,WIM,WIM - Non-retirement,1
+40,WIM,WIM - Non-retirement,1
+41,WIM,WIM - Non-retirement,1
+42,WIM,WIM - Non-retirement,1
+43,WIM,WIM - Non-retirement,1
+44,WIM,WIM - Non-retirement,1
+45,WIM,WIM - Non-retirement,1
+46,WIM,WIM - Non-retirement,1
+47,WIM,WIM - Non-retirement,1
+48,WIM,WIM - Non-retirement,1
+49,WIM,WIM - Non-retirement,1
+50,WIM,WIM - Non-retirement,1
+51,WIM,WIM - Non-retirement,1
+52,WIM,WIM - Non-retirement,1
+1,WIM,WIM - Retirement,1
+2,WIM,WIM - Retirement,1
+3,WIM,WIM - Retirement,1
+4,WIM,WIM - Retirement,1
+5,WIM,WIM - Retirement,1
+6,WIM,WIM - Retirement,1
+7,WIM,WIM - Retirement,1
+8,WIM,WIM - Retirement,1
+9,WIM,WIM - Retirement,1
+10,WIM,WIM - Retirement,1
+11,WIM,WIM - Retirement,1
+12,WIM,WIM - Retirement,1
+13,WIM,WIM - Retirement,1
+14,WIM,WIM - Retirement,1
+15,WIM,WIM - Retirement,1
+16,WIM,WIM - Retirement,1
+17,WIM,WIM - Retirement,1
+18,WIM,WIM - Retirement,1
+19,WIM,WIM - Retirement,1
+20,WIM,WIM - Retirement,1
+21,WIM,WIM - Retirement,1
+22,WIM,WIM - Retirement,1
+23,WIM,WIM - Retirement,1
+24,WIM,WIM - Retirement,1
+25,WIM,WIM - Retirement,1
+26,WIM,WIM - Retirement,1
+27,WIM,WIM - Retirement,1
+28,WIM,WIM - Retirement,1
+29,WIM,WIM - Retirement,1
+30,WIM,WIM - Retirement,1
+31,WIM,WIM - Retirement,1
+32,WIM,WIM - Retirement,1
+33,WIM,WIM - Retirement,1
+34,WIM,WIM - Retirement,1
+35,WIM,WIM - Retirement,1
+36,WIM,WIM - Retirement,1
+37,WIM,WIM - Retirement,1
+38,WIM,WIM - Retirement,1
+39,WIM,WIM - Retirement,1
+40,WIM,WIM - Retirement,1
+41,WIM,WIM - Retirement,1
+42,WIM,WIM - Retirement,1
+43,WIM,WIM - Retirement,1
+44,WIM,WIM - Retirement,1
+45,WIM,WIM - Retirement,1
+46,WIM,WIM - Retirement,1
+47,WIM,WIM - Retirement,1
+48,WIM,WIM - Retirement,1
+49,WIM,WIM - Retirement,1
+50,WIM,WIM - Retirement,1
+51,WIM,WIM - Retirement,1
+52,WIM,WIM - Retirement,1
+1,Mortgage,Purchase Mortgage - New WF Customers,1
+2,Mortgage,Purchase Mortgage - New WF Customers,1
+3,Mortgage,Purchase Mortgage - New WF Customers,1
+4,Mortgage,Purchase Mortgage - New WF Customers,1
+5,Mortgage,Purchase Mortgage - New WF Customers,1
+6,Mortgage,Purchase Mortgage - New WF Customers,1
+7,Mortgage,Purchase Mortgage - New WF Customers,1
+8,Mortgage,Purchase Mortgage - New WF Customers,1
+9,Mortgage,Purchase Mortgage - New WF Customers,1
+10,Mortgage,Purchase Mortgage - New WF Customers,1
+11,Mortgage,Purchase Mortgage - New WF Customers,1
+12,Mortgage,Purchase Mortgage - New WF Customers,1
+13,Mortgage,Purchase Mortgage - New WF Customers,1
+14,Mortgage,Purchase Mortgage - New WF Customers,1
+15,Mortgage,Purchase Mortgage - New WF Customers,1
+16,Mortgage,Purchase Mortgage - New WF Customers,1
+17,Mortgage,Purchase Mortgage - New WF Customers,1
+18,Mortgage,Purchase Mortgage - New WF Customers,1
+19,Mortgage,Purchase Mortgage - New WF Customers,1
+20,Mortgage,Purchase Mortgage - New WF Customers,1
+21,Mortgage,Purchase Mortgage - New WF Customers,1
+22,Mortgage,Purchase Mortgage - New WF Customers,1
+23,Mortgage,Purchase Mortgage - New WF Customers,1
+24,Mortgage,Purchase Mortgage - New WF Customers,1
+25,Mortgage,Purchase Mortgage - New WF Customers,1
+26,Mortgage,Purchase Mortgage - New WF Customers,1
+27,Mortgage,Purchase Mortgage - New WF Customers,1
+28,Mortgage,Purchase Mortgage - New WF Customers,1
+29,Mortgage,Purchase Mortgage - New WF Customers,1
+30,Mortgage,Purchase Mortgage - New WF Customers,1
+31,Mortgage,Purchase Mortgage - New WF Customers,1
+32,Mortgage,Purchase Mortgage - New WF Customers,1
+33,Mortgage,Purchase Mortgage - New WF Customers,1
+34,Mortgage,Purchase Mortgage - New WF Customers,1
+35,Mortgage,Purchase Mortgage - New WF Customers,1
+36,Mortgage,Purchase Mortgage - New WF Customers,1
+37,Mortgage,Purchase Mortgage - New WF Customers,1
+38,Mortgage,Purchase Mortgage - New WF Customers,1
+39,Mortgage,Purchase Mortgage - New WF Customers,1
+40,Mortgage,Purchase Mortgage - New WF Customers,1
+41,Mortgage,Purchase Mortgage - New WF Customers,1
+42,Mortgage,Purchase Mortgage - New WF Customers,1
+43,Mortgage,Purchase Mortgage - New WF Customers,1
+44,Mortgage,Purchase Mortgage - New WF Customers,1
+45,Mortgage,Purchase Mortgage - New WF Customers,1
+46,Mortgage,Purchase Mortgage - New WF Customers,1
+47,Mortgage,Purchase Mortgage - New WF Customers,1
+48,Mortgage,Purchase Mortgage - New WF Customers,1
+49,Mortgage,Purchase Mortgage - New WF Customers,1
+50,Mortgage,Purchase Mortgage - New WF Customers,1
+51,Mortgage,Purchase Mortgage - New WF Customers,1
+52,Mortgage,Purchase Mortgage - New WF Customers,1
+1,Mortgage,Purchase Mortgage - Existing WF Customers,1
+2,Mortgage,Purchase Mortgage - Existing WF Customers,1
+3,Mortgage,Purchase Mortgage - Existing WF Customers,1
+4,Mortgage,Purchase Mortgage - Existing WF Customers,1
+5,Mortgage,Purchase Mortgage - Existing WF Customers,1
+6,Mortgage,Purchase Mortgage - Existing WF Customers,1
+7,Mortgage,Purchase Mortgage - Existing WF Customers,1
+8,Mortgage,Purchase Mortgage - Existing WF Customers,1
+9,Mortgage,Purchase Mortgage - Existing WF Customers,1
+10,Mortgage,Purchase Mortgage - Existing WF Customers,1
+11,Mortgage,Purchase Mortgage - Existing WF Customers,1
+12,Mortgage,Purchase Mortgage - Existing WF Customers,1
+13,Mortgage,Purchase Mortgage - Existing WF Customers,1
+14,Mortgage,Purchase Mortgage - Existing WF Customers,1
+15,Mortgage,Purchase Mortgage - Existing WF Customers,1
+16,Mortgage,Purchase Mortgage - Existing WF Customers,1
+17,Mortgage,Purchase Mortgage - Existing WF Customers,1
+18,Mortgage,Purchase Mortgage - Existing WF Customers,1
+19,Mortgage,Purchase Mortgage - Existing WF Customers,1
+20,Mortgage,Purchase Mortgage - Existing WF Customers,1
+21,Mortgage,Purchase Mortgage - Existing WF Customers,1
+22,Mortgage,Purchase Mortgage - Existing WF Customers,1
+23,Mortgage,Purchase Mortgage - Existing WF Customers,1
+24,Mortgage,Purchase Mortgage - Existing WF Customers,1
+25,Mortgage,Purchase Mortgage - Existing WF Customers,1
+26,Mortgage,Purchase Mortgage - Existing WF Customers,1
+27,Mortgage,Purchase Mortgage - Existing WF Customers,1
+28,Mortgage,Purchase Mortgage - Existing WF Customers,1
+29,Mortgage,Purchase Mortgage - Existing WF Customers,1
+30,Mortgage,Purchase Mortgage - Existing WF Customers,1
+31,Mortgage,Purchase Mortgage - Existing WF Customers,1
+32,Mortgage,Purchase Mortgage - Existing WF Customers,1
+33,Mortgage,Purchase Mortgage - Existing WF Customers,1
+34,Mortgage,Purchase Mortgage - Existing WF Customers,1
+35,Mortgage,Purchase Mortgage - Existing WF Customers,1
+36,Mortgage,Purchase Mortgage - Existing WF Customers,1
+37,Mortgage,Purchase Mortgage - Existing WF Customers,1
+38,Mortgage,Purchase Mortgage - Existing WF Customers,1
+39,Mortgage,Purchase Mortgage - Existing WF Customers,1
+40,Mortgage,Purchase Mortgage - Existing WF Customers,1
+41,Mortgage,Purchase Mortgage - Existing WF Customers,1
+42,Mortgage,Purchase Mortgage - Existing WF Customers,1
+43,Mortgage,Purchase Mortgage - Existing WF Customers,1
+44,Mortgage,Purchase Mortgage - Existing WF Customers,1
+45,Mortgage,Purchase Mortgage - Existing WF Customers,1
+46,Mortgage,Purchase Mortgage - Existing WF Customers,1
+47,Mortgage,Purchase Mortgage - Existing WF Customers,1
+48,Mortgage,Purchase Mortgage - Existing WF Customers,1
+49,Mortgage,Purchase Mortgage - Existing WF Customers,1
+50,Mortgage,Purchase Mortgage - Existing WF Customers,1
+51,Mortgage,Purchase Mortgage - Existing WF Customers,1
+52,Mortgage,Purchase Mortgage - Existing WF Customers,1
+1,Mortgage,Refi Mortgage - New WF Customers,1
+2,Mortgage,Refi Mortgage - New WF Customers,1
+3,Mortgage,Refi Mortgage - New WF Customers,1
+4,Mortgage,Refi Mortgage - New WF Customers,1
+5,Mortgage,Refi Mortgage - New WF Customers,1
+6,Mortgage,Refi Mortgage - New WF Customers,1
+7,Mortgage,Refi Mortgage - New WF Customers,1
+8,Mortgage,Refi Mortgage - New WF Customers,1
+9,Mortgage,Refi Mortgage - New WF Customers,1
+10,Mortgage,Refi Mortgage - New WF Customers,1
+11,Mortgage,Refi Mortgage - New WF Customers,1
+12,Mortgage,Refi Mortgage - New WF Customers,1
+13,Mortgage,Refi Mortgage - New WF Customers,1
+14,Mortgage,Refi Mortgage - New WF Customers,1
+15,Mortgage,Refi Mortgage - New WF Customers,1
+16,Mortgage,Refi Mortgage - New WF Customers,1
+17,Mortgage,Refi Mortgage - New WF Customers,1
+18,Mortgage,Refi Mortgage - New WF Customers,1
+19,Mortgage,Refi Mortgage - New WF Customers,1
+20,Mortgage,Refi Mortgage - New WF Customers,1
+21,Mortgage,Refi Mortgage - New WF Customers,1
+22,Mortgage,Refi Mortgage - New WF Customers,1
+23,Mortgage,Refi Mortgage - New WF Customers,1
+24,Mortgage,Refi Mortgage - New WF Customers,1
+25,Mortgage,Refi Mortgage - New WF Customers,1
+26,Mortgage,Refi Mortgage - New WF Customers,1
+27,Mortgage,Refi Mortgage - New WF Customers,1
+28,Mortgage,Refi Mortgage - New WF Customers,1
+29,Mortgage,Refi Mortgage - New WF Customers,1
+30,Mortgage,Refi Mortgage - New WF Customers,1
+31,Mortgage,Refi Mortgage - New WF Customers,1
+32,Mortgage,Refi Mortgage - New WF Customers,1
+33,Mortgage,Refi Mortgage - New WF Customers,1
+34,Mortgage,Refi Mortgage - New WF Customers,1
+35,Mortgage,Refi Mortgage - New WF Customers,1
+36,Mortgage,Refi Mortgage - New WF Customers,1
+37,Mortgage,Refi Mortgage - New WF Customers,1
+38,Mortgage,Refi Mortgage - New WF Customers,1
+39,Mortgage,Refi Mortgage - New WF Customers,1
+40,Mortgage,Refi Mortgage - New WF Customers,1
+41,Mortgage,Refi Mortgage - New WF Customers,1
+42,Mortgage,Refi Mortgage - New WF Customers,1
+43,Mortgage,Refi Mortgage - New WF Customers,1
+44,Mortgage,Refi Mortgage - New WF Customers,1
+45,Mortgage,Refi Mortgage - New WF Customers,1
+46,Mortgage,Refi Mortgage - New WF Customers,1
+47,Mortgage,Refi Mortgage - New WF Customers,1
+48,Mortgage,Refi Mortgage - New WF Customers,1
+49,Mortgage,Refi Mortgage - New WF Customers,1
+50,Mortgage,Refi Mortgage - New WF Customers,1
+51,Mortgage,Refi Mortgage - New WF Customers,1
+52,Mortgage,Refi Mortgage - New WF Customers,1
+1,Mortgage,Refi Mortgage - Existing WF Customers,1
+2,Mortgage,Refi Mortgage - Existing WF Customers,1
+3,Mortgage,Refi Mortgage - Existing WF Customers,1
+4,Mortgage,Refi Mortgage - Existing WF Customers,1
+5,Mortgage,Refi Mortgage - Existing WF Customers,1
+6,Mortgage,Refi Mortgage - Existing WF Customers,1
+7,Mortgage,Refi Mortgage - Existing WF Customers,1
+8,Mortgage,Refi Mortgage - Existing WF Customers,1
+9,Mortgage,Refi Mortgage - Existing WF Customers,1
+10,Mortgage,Refi Mortgage - Existing WF Customers,1
+11,Mortgage,Refi Mortgage - Existing WF Customers,1
+12,Mortgage,Refi Mortgage - Existing WF Customers,1
+13,Mortgage,Refi Mortgage - Existing WF Customers,1
+14,Mortgage,Refi Mortgage - Existing WF Customers,1
+15,Mortgage,Refi Mortgage - Existing WF Customers,1
+16,Mortgage,Refi Mortgage - Existing WF Customers,1
+17,Mortgage,Refi Mortgage - Existing WF Customers,1
+18,Mortgage,Refi Mortgage - Existing WF Customers,1
+19,Mortgage,Refi Mortgage - Existing WF Customers,1
+20,Mortgage,Refi Mortgage - Existing WF Customers,1
+21,Mortgage,Refi Mortgage - Existing WF Customers,1
+22,Mortgage,Refi Mortgage - Existing WF Customers,1
+23,Mortgage,Refi Mortgage - Existing WF Customers,1
+24,Mortgage,Refi Mortgage - Existing WF Customers,1
+25,Mortgage,Refi Mortgage - Existing WF Customers,1
+26,Mortgage,Refi Mortgage - Existing WF Customers,1
+27,Mortgage,Refi Mortgage - Existing WF Customers,1
+28,Mortgage,Refi Mortgage - Existing WF Customers,1
+29,Mortgage,Refi Mortgage - Existing WF Customers,1
+30,Mortgage,Refi Mortgage - Existing WF Customers,1
+31,Mortgage,Refi Mortgage - Existing WF Customers,1
+32,Mortgage,Refi Mortgage - Existing WF Customers,1
+33,Mortgage,Refi Mortgage - Existing WF Customers,1
+34,Mortgage,Refi Mortgage - Existing WF Customers,1
+35,Mortgage,Refi Mortgage - Existing WF Customers,1
+36,Mortgage,Refi Mortgage - Existing WF Customers,1
+37,Mortgage,Refi Mortgage - Existing WF Customers,1
+38,Mortgage,Refi Mortgage - Existing WF Customers,1
+39,Mortgage,Refi Mortgage - Existing WF Customers,1
+40,Mortgage,Refi Mortgage - Existing WF Customers,1
+41,Mortgage,Refi Mortgage - Existing WF Customers,1
+42,Mortgage,Refi Mortgage - Existing WF Customers,1
+43,Mortgage,Refi Mortgage - Existing WF Customers,1
+44,Mortgage,Refi Mortgage - Existing WF Customers,1
+45,Mortgage,Refi Mortgage - Existing WF Customers,1
+46,Mortgage,Refi Mortgage - Existing WF Customers,1
+47,Mortgage,Refi Mortgage - Existing WF Customers,1
+48,Mortgage,Refi Mortgage - Existing WF Customers,1
+49,Mortgage,Refi Mortgage - Existing WF Customers,1
+50,Mortgage,Refi Mortgage - Existing WF Customers,1
+51,Mortgage,Refi Mortgage - Existing WF Customers,1
+52,Mortgage,Refi Mortgage - Existing WF Customers,1
+1,Credit Card,Credit Card - Core,1
+2,Credit Card,Credit Card - Core,1
+3,Credit Card,Credit Card - Core,1
+4,Credit Card,Credit Card - Core,1
+5,Credit Card,Credit Card - Core,1
+6,Credit Card,Credit Card - Core,1
+7,Credit Card,Credit Card - Core,1
+8,Credit Card,Credit Card - Core,1
+9,Credit Card,Credit Card - Core,1
+10,Credit Card,Credit Card - Core,1
+11,Credit Card,Credit Card - Core,1
+12,Credit Card,Credit Card - Core,1
+13,Credit Card,Credit Card - Core,1
+14,Credit Card,Credit Card - Core,1
+15,Credit Card,Credit Card - Core,1
+16,Credit Card,Credit Card - Core,1
+17,Credit Card,Credit Card - Core,1
+18,Credit Card,Credit Card - Core,1
+19,Credit Card,Credit Card - Core,1
+20,Credit Card,Credit Card - Core,1
+21,Credit Card,Credit Card - Core,1
+22,Credit Card,Credit Card - Core,1
+23,Credit Card,Credit Card - Core,1
+24,Credit Card,Credit Card - Core,1
+25,Credit Card,Credit Card - Core,1
+26,Credit Card,Credit Card - Core,1
+27,Credit Card,Credit Card - Core,1
+28,Credit Card,Credit Card - Core,1
+29,Credit Card,Credit Card - Core,1
+30,Credit Card,Credit Card - Core,1
+31,Credit Card,Credit Card - Core,1
+32,Credit Card,Credit Card - Core,1
+33,Credit Card,Credit Card - Core,1
+34,Credit Card,Credit Card - Core,1
+35,Credit Card,Credit Card - Core,1
+36,Credit Card,Credit Card - Core,1
+37,Credit Card,Credit Card - Core,1
+38,Credit Card,Credit Card - Core,1
+39,Credit Card,Credit Card - Core,1
+40,Credit Card,Credit Card - Core,1
+41,Credit Card,Credit Card - Core,1
+42,Credit Card,Credit Card - Core,1
+43,Credit Card,Credit Card - Core,1
+44,Credit Card,Credit Card - Core,1
+45,Credit Card,Credit Card - Core,1
+46,Credit Card,Credit Card - Core,1
+47,Credit Card,Credit Card - Core,1
+48,Credit Card,Credit Card - Core,1
+49,Credit Card,Credit Card - Core,1
+50,Credit Card,Credit Card - Core,1
+51,Credit Card,Credit Card - Core,1
+52,Credit Card,Credit Card - Core,1
