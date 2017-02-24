@@ -3,15 +3,43 @@
 
 # calculate final result
 curve$value_decomp=calc_decomp(curve$sp_current)
-curve$value_npv=curve$value_decomp*curve$clv
+if(ex.setup$optimization_target==2){
+  curve$value_npv=curve$value_decomp*curve$clv
+}else if (ex.setup$optimization_target==3){
+  curve$value_npv=curve$value_decomp*curve$factor_1
+} else if (ex.setup$optimization_target==4){
+  curve$value_npv=curve$value_decomp*curve$factor_2
+} else if (ex.setup$optimization_target==5){
+  curve$value_npv=curve$value_decomp*curve$factor_3
+}
+
+
 if (ex.setup$optimization_type %in% c(3,5,9)) {
   curve$spend_start=curve$sp_plan
   curve$value_decomp_start=calc_decomp(curve$sp_plan)
-  curve$value_npv_start=curve$value_decomp_start*curve$clv
+  if(ex.setup$optimization_target==2){
+    curve$value_npv_start=curve$value_decomp_start*curve$clv
+  }else if (ex.setup$optimization_target==3){
+    curve$value_npv_start=curve$value_decomp_start*curve$factor_1
+  } else if (ex.setup$optimization_target==4){
+    curve$value_npv_start=curve$value_decomp_start*curve$factor_2
+  } else if (ex.setup$optimization_target==5){
+    curve$value_npv_start=curve$value_decomp_start*curve$factor_3
+  }
+  
 }else{
   curve$spend_start=curve$sp_min
   curve$value_decomp_start=calc_decomp(curve$sp_min)
-  curve$value_npv_start=curve$value_decomp_start*curve$clv
+  if(ex.setup$optimization_target==2){
+    curve$value_npv_start=curve$value_decomp_start*curve$clv
+  }else if (ex.setup$optimization_target==3){
+    curve$value_npv_start=curve$value_decomp_start*curve$factor_1
+  } else if (ex.setup$optimization_target==4){
+    curve$value_npv_start=curve$value_decomp_start*curve$factor_2
+  } else if (ex.setup$optimization_target==5){
+    curve$value_npv_start=curve$value_decomp_start*curve$factor_3
+  }
+  
 }
 
 
