@@ -7,6 +7,6 @@ overall,overall,overall,0,0,0,overall,0,all_id,NULL
 tacticchart_3,Tactic,chan,1,1,0,bar,1,"chan3_id,chan2_id,chan1_id",NULL
 tacticchart_2,Tactic,chan,1,1,0,bar,1,"chan2_id,chan1_id",NULL
 tacticchart_1,Tactic,chan,1,1,0,bar,1,chan1_id,NULL
-tactictable_3,Tactic,chan,1,0,1,table,1,"chan3_id,chan2_id,chan1_id,sales1_id",sales
-tactictable_2,Tactic,chan,1,0,1,table,1,"chan2_id,chan1_id,sales1_id",sales
-tactictable_1,Tactic,chan,1,0,1,table,1,"chan1_id,sales1_id",sales
+tactictable_3,Tactic,chan,1,0,1,table,1,"chan3_id,chan2_id,chan1_id,sales2_id,sales1_id",sales
+tactictable_2,Tactic,chan,1,0,1,table,1,"chan2_id,chan1_id,sales2_id,sales1_id",sales
+tactictable_1,Tactic,chan,1,0,1,table,1,"chan1_id,sales2_id,sales1_id",sales
