@@ -3,7 +3,7 @@ update,y
 client_name,Wells Fargo
 r_path,/home/rstudio/nviz/wells/
 general_message,NULL
-calendar,1
+calendar,2
 pace,2500
 goal_check,1
 bdgt_dim,"chan3_id,chan2_id,chan1_id,dma1_id"
