@@ -1,8 +1,8 @@
 label,dim,flag_cstr,flag_event,flag_multigoal
 overall,all_id,0,0,0
-Message,chan3_id,1,1,0
+Message,chan1_id,1,1,0
 Segment,chan2_id,1,1,0
-Tactic,chan1_id,1,1,0
+Channel,chan3_id,1,1,0
 Market,dma1_id,1,1,0
 Product,sales2_id,0,1,1
 LOB,sales1_id,0,1,1

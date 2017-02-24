@@ -1,4 +1,4 @@
-sales1_name,sales2_name,chan1_name,chan2_name,chan3_name,dma1_name,hl,hrf,max,cpp,wks,beta,curvegroup_name,factor_1,factor_2,factor_3
+sales1_name,sales2_name,chan3_name,chan2_name,chan1_name,dma1_name,hl,hrf,max,cpp,wks,beta,curvegroup_name,factor_1,factor_2,factor_3
 Consumer Deposits,Consumer Checking - New Checking Customers,Television,General Market,Deposits,National,5,0.15,141.33,29371.62418,1,3797.4202,weekly,312,423,582
 Consumer Deposits,Consumer Checking - New Checking Customers,Outdoor,General Market,Deposits,National,1,0.15,1072149.405,1,1,904.9416493,weekly,312,423,582
 Consumer Deposits,Consumer Checking - New Checking Customers,Online Display,General Market,Deposits,National,0.6,0.15,1661893.244,1,1,1637.512499,weekly,312,423,582
